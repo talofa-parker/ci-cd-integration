@@ -18,7 +18,7 @@ jobs:
   build:
     name: Builds the project
     #needs: setup
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       # checkout 
       - name: checkout repository
@@ -65,7 +65,7 @@ jobs:
     
   buildForAllPlatforms:
     name: Build for ${{ matrix.targetPlatform }} on Unity version ${{ matrix.unityVersion }}
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     strategy:
       fail-fast: false
       matrix:
