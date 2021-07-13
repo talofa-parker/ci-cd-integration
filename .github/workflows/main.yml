@@ -1,8 +1,23 @@
-name: Actions 
-on: [push, pull_request]
+name: Build project on Push/PR
+on: 
+  push:
+    branches:  
+      - master
+      - dev
+    paths:
+      - 'client/TestProject/Assets/**'
+      - 'client/TestProject/Packages/**'
+      - 'client/TestProject/ProjectSettings/**'
+  pull_request:
 jobs:
+  #setup:
+  #  name: Setup project
+  #  runs-on: windows-latest
+  #  steps:
+    #  - run
   build:
     name: Builds the project
+    #needs: setup
     runs-on: windows-latest
     steps:
       # checkout 
@@ -26,16 +41,56 @@ jobs:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
 
       # Build
-      - name: Build project
-        uses: game-ci/unity-builder@v2
+      - name: Unity - Builder
+        uses: game-ci/unity-builder@v2.0-alpha-11
         env:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
           targetPlatform: WebGL
+        
+      # For Unity Professional Licenses:
+      #- uses: game-ci/unity-builder@v2
+      #  env:
+      #    UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+      #    UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+      #    UNITY_SERIAL: ${{ secrets.UNITY_SERIAL }}
+      #  with:
+      #    targetPlatform: WebGL
 
       # Output
       - uses: actions/upload-artifact@v2
         with:
           name: Build
           path: build
+    
+  buildForAllPlatforms:
+    name: Build for ${{ matrix.targetPlatform }} on Unity version ${{ matrix.unityVersion }}
+    runs-on: windows-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        unityVersion: 
+          - UNITY_2019_4_26f1
+        targetPlatform:
+          - Android # Build android .apk
+          - iOS # Build iOS player
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          lfs: true
+      - uses: actions/cache@v2
+        with: 
+          path: client/Testproject/Library
+          key: Library-${{ matrix.targetPlatform }}  
+      - name: Free disk space
+        run: |
+          sudo swapoff
+          sudo rm -f /swapfile
+          sudo apt clean
+          docker rmi $(docker image la -aq)
+      #- name: create Android keystore
+          
+          
 
+
+      
