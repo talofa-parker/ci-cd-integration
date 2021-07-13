@@ -1,14 +1,14 @@
 name: Build project on Push/PR
-on: 
-  push:
-    branches:  
-      - master
-      - dev
-    paths:
-      - 'client/TestProject/Assets/**'
-      - 'client/TestProject/Packages/**'
-      - 'client/TestProject/ProjectSettings/**'
-  pull_request:
+on: push
+  #push:
+  #  branches:  
+  #    - master
+  #    - dev
+  #  paths: # the path changes that determine the criteria for running a pipeline
+  #    - 'client/TestProject/Assets/**'
+  #    - 'client/TestProject/Packages/**'
+  #    - 'client/TestProject/ProjectSettings/**'
+  #pull_request:
 jobs:
   #setup:
   #  name: Setup project
