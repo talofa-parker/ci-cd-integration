@@ -2,8 +2,7 @@ name: Build project on Push/PR
 on: 
   push:  {branches: [main, dev] }
   pull_request:
-  #    - master
-  #    - dev
+  workflow_dispatch: {}
   #  paths: # the path changes that determine the criteria for running a pipeline
   #    - 'client/TestProject/Assets/**'
   #    - 'client/TestProject/Packages/**'
