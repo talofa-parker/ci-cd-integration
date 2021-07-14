@@ -19,6 +19,13 @@ jobs:
     name: Builds the project
     #needs: setup
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        unityVersion: 
+          - UNITY_2019_4_26f1
+        targetPlatform:
+          - Android # Build android .apk
+          - iOS # Build iOS player
     steps:
       # checkout 
       - name: checkout repository
@@ -46,7 +53,7 @@ jobs:
         env:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
-          targetPlatform: WebGL
+          targetPlatform: Android
         
       # For Unity Professional Licenses:
       #- uses: game-ci/unity-builder@v2

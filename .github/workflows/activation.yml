@@ -7,7 +7,7 @@ jobs:
     name: Request manual activation file 
     runs-on: ubuntu-latest
     steps:
-      # Request manual activation file
+      # Request manual activation file (Unity personal)
       - name: Request manual activation file
         id: getManualLicenseFile
         uses: game-ci/unity-request-activation-file@v2
@@ -16,4 +16,6 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: ${{ steps.getManualLicenseFile.outputs.filePath }}
-          path: ${{ steps.getManualLicenseFile.outputs.filePath }}   
+          path: ${{ steps.getManualLicenseFile.outputs.filePath }}
+      # Note: plus or pro requires Serial key in repo secrets
+      
