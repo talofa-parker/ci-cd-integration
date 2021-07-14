@@ -1,7 +1,7 @@
 name: Build project on Push/PR
-on: push
-  #push:
-  #  branches:  
+on: 
+  push:  {branches: [main, dev] }
+  pull_request:
   #    - master
   #    - dev
   #  paths: # the path changes that determine the criteria for running a pipeline
@@ -22,7 +22,7 @@ jobs:
     strategy:
       matrix:
         unityVersion: 
-          - UNITY_2020_3_13f1
+          - 2020.3.13f1
         targetPlatform:
           - Android # Build android .apk
           - iOS # Build iOS player
