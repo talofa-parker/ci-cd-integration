@@ -47,13 +47,15 @@ jobs:
       #    githubToken: ${{ secrets.GITHUB_TOKEN }}
 
       # Build
-      - name: Unity - Test Runner
-        uses: game-ci/unity-test-runner@v2
-        env:
-          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
-        with:
-          projectPath: client/TestProject/
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
+      - name: Build for Android
+        uses: ./gradlew assembleDebug
+      #- name: Unity - Test Runner
+      #  uses: game-ci/unity-test-runner@v2
+      #  env:
+      #    UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+      #  with:
+      #    projectPath: client/TestProject/
+      #    githubToken: ${{ secrets.GITHUB_TOKEN }}
           
           # targetPlatform: WebGL
         
