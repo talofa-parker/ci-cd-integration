@@ -23,14 +23,14 @@ jobs:
           lfs: true
 
       # cache library folder from previous build to cut down build time
-      - name: cache library folder
-        uses: actions/cache@v2
-        with: 
-          path: client/TestProject/Library/
-          key: Library-TestProject-TargetPlatform
-          restore-keys: |
-            Library-TestProject-
-            Library-
+      #- name: cache library folder
+      #  uses: actions/cache@v2
+      #  with: 
+      #    path: client/TestProject/Library/
+      #    key: Library-TestProject-TargetPlatform
+      #    restore-keys: |
+      #      Library-TestProject-
+      #      Library-
       
       # test
       #- name: Run tests
