@@ -22,20 +22,24 @@ jobs:
         with:
           lfs: true
 
-      # cache
-      - uses: actions/cache@v2
+      # cache library folder from previous build to cut down build time
+      - name: cache library folder
+        uses: actions/cache@v2
         with: 
           path: client/TestProject/Library/
-          key: Library
+          key: Library-TestProject-TargetPlatform
+          restore-keys: |
+            Library-TestProject-
+            Library-
       
       # test
-      - name: Run tests
-        uses: game-ci/unity-test-runner@v2
-        env:
-          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
-        with:
-          projectPath: client/TestProject/
-          githubToken: ${{ secrets.ACCESS_TOKEN_GITHUB }}
+      #- name: Run tests
+      #  uses: game-ci/unity-test-runner@v2
+      #  env:
+      #    UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+      #  with:
+      #    projectPath: client/TestProject/
+      #    githubToken: ${{ secrets.ACCESS_TOKEN_GITHUB }}
 
       # build
       - name: Build project
@@ -44,6 +48,7 @@ jobs:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
           targetPlatform: WebGL
+          projectPath: client/TestProject/
 
       # output
       - uses: actions/upload-artifact@v2
