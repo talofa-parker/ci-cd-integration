@@ -12,8 +12,8 @@ jobs:
         unityVersion: 
           - 2020.3.13f1
         targetPlatform:
-          - Android # Build android .apk
-          - iOS # Build iOS player
+          #- Android # Build android .apk
+          #- iOS # Build iOS player
           - WebGL # Build WebGL
     steps:
       # checkout 
