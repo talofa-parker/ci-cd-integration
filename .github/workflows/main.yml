@@ -73,7 +73,7 @@ jobs:
 
   buildForiOS:
     name: Build for iOS
-    runs-on: macos-latest
+    runs-on: macos-11.0
     needs: setup # step runs after setup
     strategy: 
       fail-fast: false
