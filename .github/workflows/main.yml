@@ -47,6 +47,32 @@ jobs:
           name: Build-${{ matrix.targetPlatform }}
           path: build/${{ matrix.targetPlatform }}
       
+  uploadArtifactToAppCenter:
+    name: Upload Build to App Center
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      # upload APK artifact to AppCenter
+      - name: Upload APK to AppCenter
+        uses: wzieba/AppCenter-Github-Action@v1.3.2
+        with:
+          appName: parker@talofagames/Abra-Android
+          token: ${{secrets.APP_CENTER_TOKEN}}
+          group: orgs/Talofa-Games/apps/R2MH-dev/
+          file: build/Android
+          notifyTesters: true
+          debug: false    
+      # upload IPA to AppCenter
+      - name: Upload IPA to AppCenter
+        uses: wzeiba/AppCenter-GitHub-Action@v1.3.2
+        with:
+          appName: parker@talofagames/Abra-iOS
+          token: ${{ secrets.APP_CENTER_TOKEN }}
+          group: orgs/Talofa-Games/apps/R2MH-dev-1/
+          file: build/iOS
+          notifyTests: true
+          debug: false
+
       # test
       #- name: Run tests
       #  uses: game-ci/unity-test-runner@v2
