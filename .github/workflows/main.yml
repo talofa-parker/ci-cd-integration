@@ -52,7 +52,15 @@ jobs:
           - 2020.3.13f1
         targetPlatform:
           - Android # Build android .apk
-    steps:      
+    steps:
+      - uses: actions/checkout@v2
+        with: 
+          lfs: true
+      - uses: actions/cache@v2
+        with:
+          path: client/TestProject/Library/
+          key: Library-${{ matrix.targetPlatform }}
+      
       # build
       - name: Build project
         uses: game-ci/unity-builder@v2
@@ -74,7 +82,15 @@ jobs:
           - 2020.3.13f1
         targetPlatform:
           - iOS # Build iOS player
-    steps:      
+    steps:
+      - uses: actions/checkout@v2
+        with: 
+          lfs: true
+      - uses: actions/cache@v2
+        with:
+          path: client/TestProject/Library/
+          key: Library-${{ matrix.targetPlatform }}
+      
       # build
       - name: Build project
         uses: game-ci/unity-builder@v2
