@@ -31,6 +31,7 @@ jobs:
           restore-keys: |
             Library-TestProject-
             Library-
+        if: 
       
       # test
       #- name: Run tests
@@ -68,7 +69,7 @@ jobs:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
           targetPlatform: ${{ matrix.targetPlatform }}
-          projectPath: client/TestProject/
+          projectPath: client/TestProject
       - uses: actions/upload-artifact@v2
         with:
           name: Build-${{ matrix.targetPlatform }}
@@ -102,7 +103,7 @@ jobs:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
           targetPlatform: ${{ matrix.targetPlatform }}
-          projectPath: client/TestProject/  
+          projectPath: client/TestProject  
       - uses: actions/upload-artifact@v2
         with:
           name: Build-${{ matrix.targetPlatform }}
