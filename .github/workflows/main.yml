@@ -5,7 +5,7 @@ on:
   workflow_dispatch: {}
 jobs:
   setup:
-    name: Performs setup steps
+    name: Builds for Platform ${{ matrix.targetPlatform }}
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -22,15 +22,15 @@ jobs:
           fetch-depth: 0
           lfs: true
 
-      # cache library folder from previous build to cut down build time
-      - name: cache library folder
-        uses: actions/cache@v2
-        with: 
-          path: client/TestProject/Library/
-          key: Library-TestProject-TargetPlatform
-          restore-keys: |
-            Library-TestProject-
-            Library-
+      # # cache library folder from previous build to cut down build time
+      # - name: cache library folder
+      #   uses: actions/cache@v2
+      #   with: 
+      #     path: client/TestProject/Library/
+      #     key: Library-TestProject-TargetPlatform
+      #     restore-keys: |
+      #       Library-TestProject-
+      #       Library-
       #   if: 
 
       # build
