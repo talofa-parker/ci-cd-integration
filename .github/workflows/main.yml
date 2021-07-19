@@ -53,13 +53,13 @@ jobs:
         targetPlatform:
           - Android # Build android .apk
     steps:
-      - uses: actions/checkout@v2
-        with: 
-          lfs: true
-      - uses: actions/cache@v2
-        with:
-          path: client/TestProject/Library/
-          key: Library-${{ matrix.targetPlatform }}
+      # - uses: actions/checkout@v2
+      #   with: 
+      #     lfs: true
+      # - uses: actions/cache@v2
+      #   with:
+      #     path: client/TestProject/Library/
+      #     key: Library-${{ matrix.targetPlatform }}
       
       # build
       - name: Build project
@@ -87,13 +87,13 @@ jobs:
         targetPlatform:
           - iOS # Build iOS player
     steps:
-      - uses: actions/checkout@v2
-        with: 
-          lfs: true
-      - uses: actions/cache@v2
-        with:
-          path: client/TestProject/Library/
-          key: Library-${{ matrix.targetPlatform }}
+      # - uses: actions/checkout@v2
+      #   with: 
+      #     lfs: true
+      # - uses: actions/cache@v2
+      #   with:
+      #     path: client/TestProject/Library/
+      #     key: Library-${{ matrix.targetPlatform }}
       
       # build
       - name: Build project
