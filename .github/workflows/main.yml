@@ -54,7 +54,7 @@ jobs:
     steps:
       # upload APK artifact to AppCenter
       - name: Upload APK to AppCenter
-        uses: wzieba/AppCenter-Github-Action@v1.3.2
+        uses: wzieba/AppCenter-Github-Action@v1
         with:
           appName: parker@talofagames/Abra-Android
           token: ${{secrets.APP_CENTER_TOKEN}}
@@ -64,7 +64,7 @@ jobs:
           debug: false    
       # upload IPA to AppCenter
       - name: Upload IPA to AppCenter
-        uses: wzeiba/AppCenter-GitHub-Action@v1.3.2
+        uses: wzieba/AppCenter-Github-Action@v1
         with:
           appName: parker@talofagames/Abra-iOS
           token: ${{ secrets.APP_CENTER_TOKEN }}
