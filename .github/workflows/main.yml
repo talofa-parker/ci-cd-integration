@@ -88,9 +88,9 @@ jobs:
         targetPlatform:
           - iOS # Build iOS player
     steps:
-      # - uses: actions/checkout@v2
-      #   with: 
-      #     lfs: true
+      - uses: actions/checkout@v2
+        with: 
+          lfs: true
       # - uses: actions/cache@v2
       #   with:
       #     path: client/TestProject/Library/
