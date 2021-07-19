@@ -54,9 +54,9 @@ jobs:
         targetPlatform:
           - Android # Build android .apk
     steps:
-      # - uses: actions/checkout@v2
-      #   with: 
-      #     lfs: true
+      - uses: actions/checkout@v2
+        with: 
+          lfs: true
       # - uses: actions/cache@v2
       #   with:
       #     path: client/TestProject/Library/
