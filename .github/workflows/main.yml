@@ -69,6 +69,10 @@ jobs:
         with:
           targetPlatform: ${{ matrix.targetPlatform }}
           projectPath: client/TestProject/
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Build-${{ matrix.targetPlatform }}
+          path: build/${{ matrix.targetPlatform }}
       #- name: create Android Keystore
 
   buildForiOS:
@@ -98,7 +102,11 @@ jobs:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
           targetPlatform: ${{ matrix.targetPlatform }}
-          projectPath: client/TestProject/     
+          projectPath: client/TestProject/  
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Build-${{ matrix.targetPlatform }}
+          path: build/${{ matrix.targetPlatform }}   
 
 
       
