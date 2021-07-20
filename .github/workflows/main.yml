@@ -22,18 +22,18 @@ jobs:
           fetch-depth: 0
           lfs: true
 
-      # # cache library folder from previous build to cut down build time
-      # - name: cache library folder
-      #   uses: actions/cache@v2
-      #   with: 
-      #     path: client/TestProject/Library/
-      #     key: Library-TestProject-TargetPlatform
-      #     restore-keys: |
-      #       Library-TestProject-
-      #       Library-
+      # cache library folder from previous build to cut down build time
+      - name: cache library folder
+        uses: actions/cache@v2
+        with: 
+          path: client/TestProject/Library/
+          key: Library-TestProject-${{ matrix.targetPlatform }}
+          # restore-keys: |
+          #   Library-TestProject-
+          #   Library-
       #   if: 
 
-      # build
+      # build Android APK and iOS Xcode project
       - name: Build project
         uses: game-ci/unity-builder@v2
         env:
@@ -45,7 +45,7 @@ jobs:
       - uses: actions/upload-artifact@v2
         with:
           name: Build-${{ matrix.targetPlatform }}
-          path: build/${{ matrix.targetPlatform }}
+          path: builds/${{ matrix.targetPlatform }}
       
   uploadArtifactToAppCenter:
     name: Upload Build to App Center
@@ -56,22 +56,22 @@ jobs:
       - name: Upload APK to AppCenter
         uses: wzieba/AppCenter-Github-Action@v1
         with:
-          appName: parker@talofagames/Abra-Android
+          appName: com.talofa-games.Abra-Android
           token: ${{secrets.APP_CENTER_TOKEN}}
           group: orgs/Talofa-Games/apps/R2MH-dev/
           file: build/Android
           notifyTesters: true
           debug: false    
       # upload IPA to AppCenter
-      - name: Upload IPA to AppCenter
-        uses: wzieba/AppCenter-Github-Action@v1
-        with:
-          appName: parker@talofagames/Abra-iOS
-          token: ${{ secrets.APP_CENTER_TOKEN }}
-          group: orgs/Talofa-Games/apps/R2MH-dev-1/
-          file: build/iOS
-          notifyTests: true
-          debug: false
+      # - name: Upload IPA to AppCenter
+      #   uses: wzieba/AppCenter-Github-Action@v1
+      #   with:
+      #     appName: com.talofa-games.Abra-iOS
+      #     token: ${{ secrets.APP_CENTER_TOKEN }}
+      #     group: orgs/Talofa-Games/apps/R2MH-dev-1/
+      #     file: build/iOS
+      #     notifyTests: true
+      #     debug: false
 
       # test
       #- name: Run tests
@@ -81,5 +81,14 @@ jobs:
       #  with:
       #    projectPath: client/TestProject/
       #    githubToken: ${{ secrets.ACCESS_TOKEN_GITHUB }}
+
+      # free disk space to prevent VM from running out of memory
+      # - name: free disk space
+      #   run: |
+      #     swapoff -a 
+      #     rm -f /swapfile
+      #     apt clean
+      #     docker rmi $(docker image ls -aq)
+      #     df -h
 
       
