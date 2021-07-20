@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3213ed949058a0d47826c5f3bd819e6d, type: 3}
+  m_Name: TR_Wrapper
+  m_EditorClassIdentifier: 
+  m_dataPerPlatformList:
+  - WwisePlatform: Mac
+    LocalizedBankKeys:
+    - SFX
+    LocalizedBanksValues:
+    - m_AssetGUID: d41bf7d081ffcbe47b0684fcf6dcf26e
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  - WwisePlatform: iOS
+    LocalizedBankKeys:
+    - SFX
+    LocalizedBanksValues:
+    - m_AssetGUID: 51fd69246899b7b4b949ed9aaf9a7836
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  - WwisePlatform: Android
+    LocalizedBankKeys:
+    - SFX
+    LocalizedBanksValues:
+    - m_AssetGUID: 0cc35a054d332c4428bf014d375aae19
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  - WwisePlatform: Windows
+    LocalizedBankKeys:
+    - SFX
+    LocalizedBanksValues:
+    - m_AssetGUID: 6bdd307cc7d07a943966ff5138e62c99
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  CurrentPlatformAssets:
+    WwisePlatform: Windows
+    LocalizedBankKeys:
+    - SFX
+    LocalizedBanksValues:
+    - m_AssetGUID: 6bdd307cc7d07a943966ff5138e62c99
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  loadState: 0
+  currentLanguage: 
+  soundbankId: 0
+  decodeBank: 0
+  saveDecodedBank: 0
+  refCount: 0

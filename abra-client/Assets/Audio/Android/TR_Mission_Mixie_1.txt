@@ -1,0 +1,22 @@
+Event	ID	Name			Wwise Object Path	Notes
+	23196849	Tracking0_STOP			\Andy VO Work Unit\Production 2\Training Run\TR Mission Mixie 1\Callback Events\Tracking0_STOP	
+	253182801	Temp_CallbackTrackingStop_02			\Music Work Unit\Music Events\Training Run\Temp_CallbackTrackingStop_02	
+	253182802	Temp_CallbackTrackingStop_01			\Music Work Unit\Music Events\Training Run\Temp_CallbackTrackingStop_01	
+	253182803	Temp_CallbackTrackingStop_00			\Music Work Unit\Music Events\Training Run\Temp_CallbackTrackingStop_00	
+	539364318	Tracking1_STOP			\Andy VO Work Unit\Production 2\Training Run\TR Mission Mixie 1\Callback Events\Tracking1_STOP	
+	795023837	Tracking2_START			\Andy VO Work Unit\Production 2\Training Run\TR Mission Mixie 1\Callback Events\Tracking2_START	
+	2010489022	Tracking1_START			\Andy VO Work Unit\Production 2\Training Run\TR Mission Mixie 1\Callback Events\Tracking1_START	
+	2647483359	Tracking2_STOP			\Andy VO Work Unit\Production 2\Training Run\TR Mission Mixie 1\Callback Events\Tracking2_STOP	
+	3982176501	Temp_CallbackTrackingStart_02			\Music Work Unit\Music Events\Training Run\Temp_CallbackTrackingStart_02	
+	3982176502	Temp_CallbackTrackingStart_01			\Music Work Unit\Music Events\Training Run\Temp_CallbackTrackingStart_01	
+	3982176503	Temp_CallbackTrackingStart_00			\Music Work Unit\Music Events\Training Run\Temp_CallbackTrackingStart_00	
+	4163195251	Tracking0_START			\Andy VO Work Unit\Production 2\Training Run\TR Mission Mixie 1\Callback Events\Tracking0_START	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	38662943	Callback_Tracking1_START	C:\Users\Sam\Repos\abra\abra-wwise\.cache\Android\SFX\Callback_Tracking1_START_A317A30C.wem		\Actor-Mixer Hierarchy\Andy VO Work Unit\Dialogue\Priority Sound Instance Limiter\General Run\Fitness Run\Mixie TRs\Mixie - Grammar TR\00 Loose Callbacks\Callback_Tracking1_START		752
+	110804180	Callback_Tracking2_STOP	C:\Users\Sam\Repos\abra\abra-wwise\.cache\Android\SFX\Callback_Tracking2_STOP_A317A30C.wem		\Actor-Mixer Hierarchy\Andy VO Work Unit\Dialogue\Priority Sound Instance Limiter\General Run\Fitness Run\Mixie TRs\Mixie - Grammar TR\00 Loose Callbacks\Callback_Tracking2_STOP		752
+	488488007	Callback_Tracking0_STOP	C:\Users\Sam\Repos\abra\abra-wwise\.cache\Android\SFX\Callback_Tracking0_STOP_A317A30C.wem		\Actor-Mixer Hierarchy\Andy VO Work Unit\Dialogue\Priority Sound Instance Limiter\General Run\Fitness Run\Mixie TRs\Mixie - Grammar TR\00 Loose Callbacks\Callback_Tracking0_STOP		752
+	672614535	Callback_Tracking2_START	C:\Users\Sam\Repos\abra\abra-wwise\.cache\Android\SFX\Callback_Tracking2_START_A317A30C.wem		\Actor-Mixer Hierarchy\Andy VO Work Unit\Dialogue\Priority Sound Instance Limiter\General Run\Fitness Run\Mixie TRs\Mixie - Grammar TR\00 Loose Callbacks\Callback_Tracking2_START		752
+	695903866	Callback_Tracking0_START	C:\Users\Sam\Repos\abra\abra-wwise\.cache\Android\SFX\Callback_Tracking0_START_A317A30C.wem		\Actor-Mixer Hierarchy\Andy VO Work Unit\Dialogue\Priority Sound Instance Limiter\General Run\Fitness Run\Mixie TRs\Mixie - Grammar TR\00 Loose Callbacks\Callback_Tracking0_START		752
+	822514411	Callback_Tracking1_STOP	C:\Users\Sam\Repos\abra\abra-wwise\.cache\Android\SFX\Callback_Tracking1_STOP_A317A30C.wem		\Actor-Mixer Hierarchy\Andy VO Work Unit\Dialogue\Priority Sound Instance Limiter\General Run\Fitness Run\Mixie TRs\Mixie - Grammar TR\00 Loose Callbacks\Callback_Tracking1_STOP		752
+

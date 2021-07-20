@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: WwiseData_iOS_InitBank
+  m_EditorClassIdentifier: 
+  m_GroupName: WwiseData_iOS_InitBank
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 13932dc4ce6753642a81ba5fb0453452
+  m_SerializeEntries:
+  - m_GUID: 0e09acb8ef68e57448befcc5dd505eb4
+    m_Address: Assets/Audio/iOS/Init.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7365968922931059698, guid: 0e09acb8ef68e57448befcc5dd505eb4, type: 3}
+    m_TargetAsset: {fileID: 7365968922931059698, guid: 0e09acb8ef68e57448befcc5dd505eb4, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4edec13f269373548b5fa04fb4a6edb1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d532331b179542a4291094abdf738c8a, type: 2}
+    - {fileID: 11400000, guid: 03b9ad95269729e42b280f51593e6b4a, type: 2}

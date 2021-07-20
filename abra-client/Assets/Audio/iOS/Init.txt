@@ -1,0 +1,1310 @@
+Switch Group	ID	Name			Wwise Object Path	Notes
+	124830231	CR_CurrentRunAttemptCount			\Andy VO Work Unit\ChallengeVO\CR_CurrentRunAttemptCount	
+	157502822	PlayOrDropTeamMateSeconds			\Andy VO Work Unit\StatusVO\PaceVO\PlayOrDropTeamMateSeconds	
+	205079816	GrpRnQuizPercent_Incorrect			\Andy VO Work Unit\SocialVO\GrpRnQuizPercent_Incorrect	
+	272657204	GroupDistance_OnOff			\Andy VO Work Unit\SocialVO\GroupDistance_OnOff	
+	308586560	CurrentPlayersNumberState			\Andy VO Work Unit\SocialVO\Misc Voice Stitching\CurrentPlayersNumberState	
+	428142787	QuestionNum			\Andy VO Work Unit\SocialVO\QuestionNum	
+	504240042	OneSecondOrMultiSeconds			\Andy VO Work Unit\StatusVO\PaceVO\OneSecondOrMultiSeconds	
+	574677461	SecondNumber_teamMate			\Andy VO Work Unit\StatusVO\PaceVO\SecondNumber_teamMate	
+	662238170	WinCount			\Default Work Unit\WinCount	
+	679755110	DistanceFromTargetEscape			\Andy VO Work Unit\RandomEncounter_VO\DistanceFromTargetEscape	
+	779465698	SecondNumber			\Andy VO Work Unit\StatusVO\PaceVO\SecondNumber	
+	890093215	SamePacePlayersPercent			\Andy VO Work Unit\SocialVO\Misc Voice Stitching\SamePacePlayersPercent	
+	891709329	MaxGoalMetNotMet			\Andy VO Work Unit\ChallengeVO\MaxGoalMetNotMet	
+	980658900	JoinPoint_GroupRun			\Andy VO Work Unit\SocialVO\JoinPoint_GroupRun	
+	999367376	Conversation			\Andy VO Work Unit\Conversation	
+	1090336998	CurrentPlayersNumberPreCommitted			\Andy VO Work Unit\SocialVO\Misc Voice Stitching\CurrentPlayersNumberPreCommitted	
+	1159204852	MinGoalMetNotMet_INTRO			\Andy VO Work Unit\ChallengeVO\MinGoalMetNotMet_INTRO	
+	1160530177	CurrentPlayersTeam			\Andy VO Work Unit\SocialVO\CurrentPlayersTeam	
+	1240071039	MaxGoalDistanceRemaining			\Andy VO Work Unit\ChallengeVO\MaxGoalDistanceRemaining	
+	1379592359	GrpRnQuizPercent_Correct			\Andy VO Work Unit\SocialVO\GrpRnQuizPercent_Correct	
+	1495818121	GrpRnResultsZeroOrSome			\Andy VO Work Unit\SocialVO\GrpRnResultsZeroOrSome	
+	1518954835	TargetDistance			\Andy VO Work Unit\SocialVO\Misc Voice Stitching\TargetDistance	
+	1690243457	MaxGoalDistance			\Andy VO Work Unit\ChallengeVO\MaxGoalDistance	
+	1799562892	MinuteNumber_Baseline			\Andy VO Work Unit\StatusVO\PaceVO\MinuteNumber_Baseline	
+	1831370520	EncouragementType			\Andy VO Work Unit\StatusVO\PaceVO\EncouragementType	
+	1833530955	RandomEncounterEarlyEnd			\Andy VO Work Unit\RandomEncounter_VO\RandomEncounterEarlyEnd	
+	1859580697	CR_ContributorCount			\Andy VO Work Unit\ChallengeVO\CR_ContributorCount	
+	1924522012	ActionUpdate			\Andy VO Work Unit\StatusVO\ActionUpdate	
+	1956766317	MinuteNumber_teamMate			\Andy VO Work Unit\StatusVO\PaceVO\MinuteNumber_teamMate	
+	1957151214	SilenceLength			\Andy VO Work Unit\TestEventSyncs\SilenceLength	
+	2026607491	MotivationalMessage			\Andy VO Work Unit\MotivationalMessage	
+	2146357884	TotalDistanceKM			\Andy VO Work Unit\SocialVO\Misc Voice Stitching\TotalDistanceKM	
+	2155555216	RunnerPlacement			\Andy VO Work Unit\SocialVO\RunnerPlacement	
+	2231374796	SamePacePlayers			\Andy VO Work Unit\SocialVO\Misc Voice Stitching\SamePacePlayers	
+	2245227230	Mission_Done_NotDone			\Andy VO Work Unit\StatusVO\Mission_Done_NotDone	
+	2254011364	CR_CurrentRunAttemptCountInvited			\Andy VO Work Unit\ChallengeVO\CR_CurrentRunAttemptCountInvited	
+	2260904941	JoinPoint			\Andy VO Work Unit\SocialVO\JoinPoint	
+	2530776765	MinutesToStart			\Andy VO Work Unit\StatusVO\MinutesToStart	
+	2623067566	RegOrUnder4OrOver30_Minutes			\Andy VO Work Unit\StatusVO\PaceVO\RegOrUnder4OrOver30_Minutes	
+	2823525184	RandomEncounterNumber			\Andy VO Work Unit\RandomEncounter_VO\RandomEncounterNumber	
+	2860169178	CurrentPlayersNumberTeam			\Andy VO Work Unit\SocialVO\Misc Voice Stitching\CurrentPlayersNumberTeam	
+	2867379316	JoinPoint_MusicControl			\Andy VO Work Unit\SocialVO\JoinPoint_MusicControl	
+	2921072929	CR_Completed_ZeroOrMore			\Andy VO Work Unit\ChallengeVO\CR_Completed_ZeroOrMore	
+	2950090522	MinuteNumber			\Andy VO Work Unit\StatusVO\PaceVO\MinuteNumber	
+	3013677290	JoinPointTotalTime			\Andy VO Work Unit\SocialVO\JoinPointTotalTime	
+	3051470618	MissionUpdate			\Andy VO Work Unit\StatusVO\MissionUpdate	
+	3059733916	RegOrOver30TeamMateMinutes			\Andy VO Work Unit\StatusVO\PaceVO\RegOrOver30TeamMateMinutes	
+	3062324054	TotalDistanceSingularOrPlural			\Andy VO Work Unit\SocialVO\Misc Voice Stitching\TotalDistanceSingularOrPlural	
+	3077629875	CR_ExpireTime			\Andy VO Work Unit\ChallengeVO\CR_ExpireTime	
+	3140762662	SegmentScore			\Default Work Unit\SegmentScore	
+	3229377490	CR_SoloOrTeam_MUS_Control			\Andy VO Work Unit\ChallengeVO\CR_SoloOrTeam_MUS_Control	
+	3230691331	MinGoalDistance			\Andy VO Work Unit\ChallengeVO\MinGoalDistance	
+	3236769191	DistanceFromTargetCollection			\Andy VO Work Unit\RandomEncounter_VO\DistanceFromTargetCollection	
+	3290569763	MinGoalMetNotMet			\Andy VO Work Unit\ChallengeVO\MinGoalMetNotMet	
+	3360777963	EncouragementTypeTeam			\Andy VO Work Unit\StatusVO\PaceVO\EncouragementTypeTeam	
+	3402276849	SecondNumber__Baseline			\Andy VO Work Unit\StatusVO\PaceVO\SecondNumber__Baseline	
+	3420368188	OneSecondOrMultiSeconds_Baseline			\Andy VO Work Unit\StatusVO\PaceVO\OneSecondOrMultiSeconds_Baseline	
+	3534071222	TotalDistanceMiles			\Andy VO Work Unit\SocialVO\Misc Voice Stitching\TotalDistanceMiles	
+	3792860567	FinalResults			\Andy VO Work Unit\FinalResults	
+	3861514271	CollectDistancePercent			\Andy VO Work Unit\RandomEncounter_VO\CollectDistancePercent	
+	3881798847	StoryNumber			\Andy VO Work Unit\StoryVO\StoryNumber	
+	4006605037	MinGoalDistanceRemaining			\Andy VO Work Unit\ChallengeVO\MinGoalDistanceRemaining	
+	4025687254	MinutesToEnd			\Andy VO Work Unit\StatusVO\MinutesToEnd	
+	4050255159	CurrentPlayersInvited			\Andy VO Work Unit\ChallengeVO\CurrentPlayersInvited	
+	4132460835	IntervalsWithJenny			\Andy VO Work Unit\StoryVO\StoryVO_ControllersByScene\IntervalsWithJenny	
+	4206709788	CR_CompletedRunCount			\Andy VO Work Unit\ChallengeVO\CR_CompletedRunCount	
+	4223744879	StoryEpisode			\Andy VO Work Unit\StoryVO\StoryEpisode	
+	4245609288	AnsweredYesPercent			\Andy VO Work Unit\SocialVO\AnsweredYesPercent	
+
+Switch	ID	Name	Switch Group			Notes
+	1565211304	Attempt_03	CR_CurrentRunAttemptCount			
+	1565211305	Attempt_02	CR_CurrentRunAttemptCount			
+	1565211306	Attempt_01	CR_CurrentRunAttemptCount			
+	1565211310	Attempt_05	CR_CurrentRunAttemptCount			
+	1565211311	Attempt_04	CR_CurrentRunAttemptCount			
+	1256202815	PLAY	PlayOrDropTeamMateSeconds			
+	1878686274	DROP	PlayOrDropTeamMateSeconds			
+	619258800	Percent_10	GrpRnQuizPercent_Incorrect			
+	636036387	Percent_00	GrpRnQuizPercent_Incorrect			
+	652813974	Percent_30	GrpRnQuizPercent_Incorrect			
+	669591561	Percent_20	GrpRnQuizPercent_Incorrect			
+	686369276	Percent_50	GrpRnQuizPercent_Incorrect			
+	703146863	Percent_40	GrpRnQuizPercent_Incorrect			
+	719924418	Percent_70	GrpRnQuizPercent_Incorrect			
+	736702133	Percent_60	GrpRnQuizPercent_Incorrect			
+	753479720	Percent_90	GrpRnQuizPercent_Incorrect			
+	770257307	Percent_80	GrpRnQuizPercent_Incorrect			
+	3405983264	Percent_100	GrpRnQuizPercent_Incorrect			
+	182470261	GroupDistance_On	GroupDistance_OnOff			
+	2618226337	GroupDistance_Off	GroupDistance_OnOff			
+	678209053	Two	CurrentPlayersNumberState			
+	912956111	Three	CurrentPlayersNumberState			
+	1064933119	One	CurrentPlayersNumberState			
+	1274682275	Several	CurrentPlayersNumberState			
+	2611770117	Five	CurrentPlayersNumberState			
+	2863728729	Four	CurrentPlayersNumberState			
+	3050958819	ALot	CurrentPlayersNumberState			
+	3624634944	Question_04	QuestionNum			
+	3624634945	Question_05	QuestionNum			
+	3624634946	Question_06	QuestionNum			
+	3624634947	Question_07	QuestionNum			
+	3624634949	Question_01	QuestionNum			
+	3624634950	Question_02	QuestionNum			
+	3624634951	Question_03	QuestionNum			
+	3624634956	Question_08	QuestionNum			
+	655505543	OneSecond	OneSecondOrMultiSeconds			
+	881254439	MultiSeconds	OneSecondOrMultiSeconds			
+	3177761616	Second_08	SecondNumber_teamMate			
+	3177761617	Second_09	SecondNumber_teamMate			
+	3177761625	Second_01	SecondNumber_teamMate			
+	3177761626	Second_02	SecondNumber_teamMate			
+	3177761627	Second_03	SecondNumber_teamMate			
+	3177761628	Second_04	SecondNumber_teamMate			
+	3177761629	Second_05	SecondNumber_teamMate			
+	3177761630	Second_06	SecondNumber_teamMate			
+	3177761631	Second_07	SecondNumber_teamMate			
+	3194539202	Second_19	SecondNumber_teamMate			
+	3194539203	Second_18	SecondNumber_teamMate			
+	3194539208	Second_13	SecondNumber_teamMate			
+	3194539209	Second_12	SecondNumber_teamMate			
+	3194539210	Second_11	SecondNumber_teamMate			
+	3194539211	Second_10	SecondNumber_teamMate			
+	3194539212	Second_17	SecondNumber_teamMate			
+	3194539213	Second_16	SecondNumber_teamMate			
+	3194539214	Second_15	SecondNumber_teamMate			
+	3194539215	Second_14	SecondNumber_teamMate			
+	3211316918	Second_28	SecondNumber_teamMate			
+	3211316919	Second_29	SecondNumber_teamMate			
+	3211316920	Second_26	SecondNumber_teamMate			
+	3211316921	Second_27	SecondNumber_teamMate			
+	3211316922	Second_24	SecondNumber_teamMate			
+	3211316923	Second_25	SecondNumber_teamMate			
+	3211316924	Second_22	SecondNumber_teamMate			
+	3211316925	Second_23	SecondNumber_teamMate			
+	3211316926	Second_20	SecondNumber_teamMate			
+	3211316927	Second_21	SecondNumber_teamMate			
+	3228094480	Second_31	SecondNumber_teamMate			
+	3228094481	Second_30	SecondNumber_teamMate			
+	3228094482	Second_33	SecondNumber_teamMate			
+	3228094483	Second_32	SecondNumber_teamMate			
+	3228094484	Second_35	SecondNumber_teamMate			
+	3228094485	Second_34	SecondNumber_teamMate			
+	3228094486	Second_37	SecondNumber_teamMate			
+	3228094487	Second_36	SecondNumber_teamMate			
+	3228094488	Second_39	SecondNumber_teamMate			
+	3228094489	Second_38	SecondNumber_teamMate			
+	3244872064	Second_44	SecondNumber_teamMate			
+	3244872065	Second_45	SecondNumber_teamMate			
+	3244872066	Second_46	SecondNumber_teamMate			
+	3244872067	Second_47	SecondNumber_teamMate			
+	3244872068	Second_40	SecondNumber_teamMate			
+	3244872069	Second_41	SecondNumber_teamMate			
+	3244872070	Second_42	SecondNumber_teamMate			
+	3244872071	Second_43	SecondNumber_teamMate			
+	3244872076	Second_48	SecondNumber_teamMate			
+	3244872077	Second_49	SecondNumber_teamMate			
+	3261649776	Second_57	SecondNumber_teamMate			
+	3261649777	Second_56	SecondNumber_teamMate			
+	3261649778	Second_55	SecondNumber_teamMate			
+	3261649779	Second_54	SecondNumber_teamMate			
+	3261649780	Second_53	SecondNumber_teamMate			
+	3261649781	Second_52	SecondNumber_teamMate			
+	3261649782	Second_51	SecondNumber_teamMate			
+	3261649783	Second_50	SecondNumber_teamMate			
+	3261649790	Second_59	SecondNumber_teamMate			
+	3261649791	Second_58	SecondNumber_teamMate			
+	3476314365	Second	SecondNumber_teamMate			
+	678209053	Two	WinCount			
+	766521211	Zero	WinCount			
+	912956111	Three	WinCount			
+	1064933119	One	WinCount			
+	848159235	VeryClose	DistanceFromTargetEscape			
+	1183803292	Far	DistanceFromTargetEscape			
+	1283428648	VeryFar	DistanceFromTargetEscape			
+	1451272583	Close	DistanceFromTargetEscape			
+	3177761616	Second_08	SecondNumber			
+	3177761617	Second_09	SecondNumber			
+	3177761625	Second_01	SecondNumber			
+	3177761626	Second_02	SecondNumber			
+	3177761627	Second_03	SecondNumber			
+	3177761628	Second_04	SecondNumber			
+	3177761629	Second_05	SecondNumber			
+	3177761630	Second_06	SecondNumber			
+	3177761631	Second_07	SecondNumber			
+	3194539202	Second_19	SecondNumber			
+	3194539203	Second_18	SecondNumber			
+	3194539208	Second_13	SecondNumber			
+	3194539209	Second_12	SecondNumber			
+	3194539210	Second_11	SecondNumber			
+	3194539211	Second_10	SecondNumber			
+	3194539212	Second_17	SecondNumber			
+	3194539213	Second_16	SecondNumber			
+	3194539214	Second_15	SecondNumber			
+	3194539215	Second_14	SecondNumber			
+	3211316918	Second_28	SecondNumber			
+	3211316919	Second_29	SecondNumber			
+	3211316920	Second_26	SecondNumber			
+	3211316921	Second_27	SecondNumber			
+	3211316922	Second_24	SecondNumber			
+	3211316923	Second_25	SecondNumber			
+	3211316924	Second_22	SecondNumber			
+	3211316925	Second_23	SecondNumber			
+	3211316926	Second_20	SecondNumber			
+	3211316927	Second_21	SecondNumber			
+	3228094480	Second_31	SecondNumber			
+	3228094481	Second_30	SecondNumber			
+	3228094482	Second_33	SecondNumber			
+	3228094483	Second_32	SecondNumber			
+	3228094484	Second_35	SecondNumber			
+	3228094485	Second_34	SecondNumber			
+	3228094486	Second_37	SecondNumber			
+	3228094487	Second_36	SecondNumber			
+	3228094488	Second_39	SecondNumber			
+	3228094489	Second_38	SecondNumber			
+	3244872064	Second_44	SecondNumber			
+	3244872065	Second_45	SecondNumber			
+	3244872066	Second_46	SecondNumber			
+	3244872067	Second_47	SecondNumber			
+	3244872068	Second_40	SecondNumber			
+	3244872069	Second_41	SecondNumber			
+	3244872070	Second_42	SecondNumber			
+	3244872071	Second_43	SecondNumber			
+	3244872076	Second_48	SecondNumber			
+	3244872077	Second_49	SecondNumber			
+	3261649776	Second_57	SecondNumber			
+	3261649777	Second_56	SecondNumber			
+	3261649778	Second_55	SecondNumber			
+	3261649779	Second_54	SecondNumber			
+	3261649780	Second_53	SecondNumber			
+	3261649781	Second_52	SecondNumber			
+	3261649782	Second_51	SecondNumber			
+	3261649783	Second_50	SecondNumber			
+	3261649790	Second_59	SecondNumber			
+	3261649791	Second_58	SecondNumber			
+	3476314365	Second	SecondNumber			
+	297596451	Forty	SamePacePlayersPercent			
+	416905362	Sixty	SamePacePlayersPercent			
+	614582933	Fifty	SamePacePlayersPercent			
+	855561750	Twenty	SamePacePlayersPercent			
+	913095698	Ten	SamePacePlayersPercent			
+	917820997	Seventy	SamePacePlayersPercent			
+	1461002489	OneHundred	SamePacePlayersPercent			
+	1461439505	Thirty	SamePacePlayersPercent			
+	2533513560	Ninety	SamePacePlayersPercent			
+	4288211107	Eighty	SamePacePlayersPercent			
+	106142506	MaxGoalMet	MaxGoalMetNotMet			
+	2043032367	MaxGoalNotMet	MaxGoalMetNotMet			
+	91766522	JP_04_Warmup_01_Intro	JoinPoint_GroupRun			
+	121958304	JP_06_Warmup_03_Tip2_ThemeAnnounce	JoinPoint_GroupRun			
+	416985620	JP_28	JoinPoint_GroupRun			
+	416985621	JP_29	JoinPoint_GroupRun			
+	416985624	JP_24	JoinPoint_GroupRun			
+	416985625	JP_25	JoinPoint_GroupRun			
+	416985626	JP_26	JoinPoint_GroupRun			
+	416985627	JP_27	JoinPoint_GroupRun			
+	416985628	JP_20	JoinPoint_GroupRun			
+	416985629	JP_21	JoinPoint_GroupRun			
+	416985630	JP_22	JoinPoint_GroupRun			
+	416985631	JP_23	JoinPoint_GroupRun			
+	433763215	JP_30	JoinPoint_GroupRun			
+	450540907	JP_09	JoinPoint_GroupRun			
+	467318480	JP_15	JoinPoint_GroupRun			
+	467318481	JP_14	JoinPoint_GroupRun			
+	467318482	JP_17	JoinPoint_GroupRun			
+	467318483	JP_16	JoinPoint_GroupRun			
+	467318484	JP_11	JoinPoint_GroupRun			
+	467318485	JP_10	JoinPoint_GroupRun			
+	467318486	JP_13	JoinPoint_GroupRun			
+	467318487	JP_12	JoinPoint_GroupRun			
+	467318492	JP_19	JoinPoint_GroupRun			
+	467318493	JP_18	JoinPoint_GroupRun			
+	646059187	JP_07_Warmup_04_Goodbye	JoinPoint_GroupRun			
+	1786817132	JP_08_Challenge_01_Begin	JoinPoint_GroupRun			
+	1863331802	JP_05_Warmup_02_Tip1	JoinPoint_GroupRun			
+	2687463625	JP_03_PreRun_Late	JoinPoint_GroupRun			
+	3037356662	JP_02_PreRun_Mid	JoinPoint_GroupRun			
+	3663942824	JP_01_PreRun_Early	JoinPoint_GroupRun			
+	735131720	Convo_05	Conversation			
+	735131721	Convo_04	Conversation			
+	735131724	Convo_01	Conversation			
+	735131726	Convo_03	Conversation			
+	735131727	Convo_02	Conversation			
+	274470240	Seven	CurrentPlayersNumberPreCommitted			
+	577793775	Six	CurrentPlayersNumberPreCommitted			
+	678209053	Two	CurrentPlayersNumberPreCommitted			
+	912956111	Three	CurrentPlayersNumberPreCommitted			
+	913095698	Ten	CurrentPlayersNumberPreCommitted			
+	1064933119	One	CurrentPlayersNumberPreCommitted			
+	1285484693	Nine	CurrentPlayersNumberPreCommitted			
+	1715921918	Eight	CurrentPlayersNumberPreCommitted			
+	2611770117	Five	CurrentPlayersNumberPreCommitted			
+	2863728729	Four	CurrentPlayersNumberPreCommitted			
+	3050958819	ALot	CurrentPlayersNumberPreCommitted			
+	347676012	MinGoalMet	MinGoalMetNotMet_INTRO			
+	1954650893	MinGoalNotMet	MinGoalMetNotMet_INTRO			
+	1129525248	Players_08	CurrentPlayersTeam			
+	1129525249	Players_09	CurrentPlayersTeam			
+	1129525257	Players_01	CurrentPlayersTeam			
+	1129525258	Players_02	CurrentPlayersTeam			
+	1129525259	Players_03	CurrentPlayersTeam			
+	1129525260	Players_04	CurrentPlayersTeam			
+	1129525261	Players_05	CurrentPlayersTeam			
+	1129525262	Players_06	CurrentPlayersTeam			
+	1129525263	Players_07	CurrentPlayersTeam			
+	1146302970	Players_11	CurrentPlayersTeam			
+	1146302971	Players_10	CurrentPlayersTeam			
+	2566543156	KM_08	MaxGoalDistanceRemaining			
+	2566543157	KM_09	MaxGoalDistanceRemaining			
+	2566543160	KM_04	MaxGoalDistanceRemaining			
+	2566543161	KM_05	MaxGoalDistanceRemaining			
+	2566543162	KM_06	MaxGoalDistanceRemaining			
+	2566543163	KM_07	MaxGoalDistanceRemaining			
+	2566543164	KM_00	MaxGoalDistanceRemaining			
+	2566543165	KM_01	MaxGoalDistanceRemaining			
+	2566543166	KM_02	MaxGoalDistanceRemaining			
+	2566543167	KM_03	MaxGoalDistanceRemaining			
+	2583320742	KM_19	MaxGoalDistanceRemaining			
+	2583320743	KM_18	MaxGoalDistanceRemaining			
+	2583320744	KM_17	MaxGoalDistanceRemaining			
+	2583320745	KM_16	MaxGoalDistanceRemaining			
+	2583320746	KM_15	MaxGoalDistanceRemaining			
+	2583320747	KM_14	MaxGoalDistanceRemaining			
+	2583320748	KM_13	MaxGoalDistanceRemaining			
+	2583320749	KM_12	MaxGoalDistanceRemaining			
+	2583320750	KM_11	MaxGoalDistanceRemaining			
+	2583320751	KM_10	MaxGoalDistanceRemaining			
+	2600098306	KM_20	MaxGoalDistanceRemaining			
+	619258800	Percent_10	GrpRnQuizPercent_Correct			
+	636036387	Percent_00	GrpRnQuizPercent_Correct			
+	652813974	Percent_30	GrpRnQuizPercent_Correct			
+	669591561	Percent_20	GrpRnQuizPercent_Correct			
+	686369276	Percent_50	GrpRnQuizPercent_Correct			
+	703146863	Percent_40	GrpRnQuizPercent_Correct			
+	719924418	Percent_70	GrpRnQuizPercent_Correct			
+	736702133	Percent_60	GrpRnQuizPercent_Correct			
+	753479720	Percent_90	GrpRnQuizPercent_Correct			
+	770257307	Percent_80	GrpRnQuizPercent_Correct			
+	3405983264	Percent_100	GrpRnQuizPercent_Correct			
+	754490737	Some	GrpRnResultsZeroOrSome			
+	766521211	Zero	GrpRnResultsZeroOrSome			
+	615011428	Mile_01	TargetDistance			
+	1622910164	Miles_08	TargetDistance			
+	1622910165	Miles_09	TargetDistance			
+	1622910168	Miles_04	TargetDistance			
+	1622910169	Miles_05	TargetDistance			
+	1622910170	Miles_06	TargetDistance			
+	1622910171	Miles_07	TargetDistance			
+	1622910174	Miles_02	TargetDistance			
+	1622910175	Miles_03	TargetDistance			
+	1639687750	Miles_19	TargetDistance			
+	1639687751	Miles_18	TargetDistance			
+	1639687752	Miles_17	TargetDistance			
+	1639687753	Miles_16	TargetDistance			
+	1639687754	Miles_15	TargetDistance			
+	1639687755	Miles_14	TargetDistance			
+	1639687756	Miles_13	TargetDistance			
+	1639687757	Miles_12	TargetDistance			
+	1639687758	Miles_11	TargetDistance			
+	1639687759	Miles_10	TargetDistance			
+	1656465442	Miles_20	TargetDistance			
+	2566543156	KM_08	MaxGoalDistance			
+	2566543157	KM_09	MaxGoalDistance			
+	2566543160	KM_04	MaxGoalDistance			
+	2566543161	KM_05	MaxGoalDistance			
+	2566543162	KM_06	MaxGoalDistance			
+	2566543163	KM_07	MaxGoalDistance			
+	2566543165	KM_01	MaxGoalDistance			
+	2566543166	KM_02	MaxGoalDistance			
+	2566543167	KM_03	MaxGoalDistance			
+	2583320742	KM_19	MaxGoalDistance			
+	2583320743	KM_18	MaxGoalDistance			
+	2583320744	KM_17	MaxGoalDistance			
+	2583320745	KM_16	MaxGoalDistance			
+	2583320746	KM_15	MaxGoalDistance			
+	2583320747	KM_14	MaxGoalDistance			
+	2583320748	KM_13	MaxGoalDistance			
+	2583320749	KM_12	MaxGoalDistance			
+	2583320750	KM_11	MaxGoalDistance			
+	2583320751	KM_10	MaxGoalDistance			
+	2600098306	KM_20	MaxGoalDistance			
+	2924478801	Minute_01	MinuteNumber_Baseline			
+	2924478802	Minute_02	MinuteNumber_Baseline			
+	2924478803	Minute_03	MinuteNumber_Baseline			
+	2924478804	Minute_04	MinuteNumber_Baseline			
+	2924478805	Minute_05	MinuteNumber_Baseline			
+	2924478806	Minute_06	MinuteNumber_Baseline			
+	2924478807	Minute_07	MinuteNumber_Baseline			
+	2924478808	Minute_08	MinuteNumber_Baseline			
+	2924478809	Minute_09	MinuteNumber_Baseline			
+	2941256384	Minute_13	MinuteNumber_Baseline			
+	2941256385	Minute_12	MinuteNumber_Baseline			
+	2941256386	Minute_11	MinuteNumber_Baseline			
+	2941256387	Minute_10	MinuteNumber_Baseline			
+	2941256388	Minute_17	MinuteNumber_Baseline			
+	2941256389	Minute_16	MinuteNumber_Baseline			
+	2941256390	Minute_15	MinuteNumber_Baseline			
+	2941256391	Minute_14	MinuteNumber_Baseline			
+	2941256394	Minute_19	MinuteNumber_Baseline			
+	2941256395	Minute_18	MinuteNumber_Baseline			
+	2958034096	Minute_26	MinuteNumber_Baseline			
+	2958034097	Minute_27	MinuteNumber_Baseline			
+	2958034098	Minute_24	MinuteNumber_Baseline			
+	2958034099	Minute_25	MinuteNumber_Baseline			
+	2958034100	Minute_22	MinuteNumber_Baseline			
+	2958034101	Minute_23	MinuteNumber_Baseline			
+	2958034102	Minute_20	MinuteNumber_Baseline			
+	2958034103	Minute_21	MinuteNumber_Baseline			
+	2958034110	Minute_28	MinuteNumber_Baseline			
+	2958034111	Minute_29	MinuteNumber_Baseline			
+	2974811689	Minute_30	MinuteNumber_Baseline			
+	274893176	PlayerOnPace	EncouragementType			
+	1881601953	PlayerIsWaySlower	EncouragementType			
+	2014247248	PlayerIsWayFaster	EncouragementType			
+	3697749888	PlayerIsSlower	EncouragementType			
+	4104716309	PlayerIsFaster	EncouragementType			
+	3471412832	ContinueQuest	RandomEncounterEarlyEnd			
+	4079034864	Early_End	RandomEncounterEarlyEnd			
+	1279777712	Contributors_02	CR_ContributorCount			
+	1279777713	Contributors_03	CR_ContributorCount			
+	1279777714	Contributors_00	CR_ContributorCount			
+	1279777715	Contributors_01	CR_ContributorCount			
+	1279777716	Contributors_06	CR_ContributorCount			
+	1279777717	Contributors_07	CR_ContributorCount			
+	1279777718	Contributors_04	CR_ContributorCount			
+	1279777719	Contributors_05	CR_ContributorCount			
+	1279777722	Contributors_08	CR_ContributorCount			
+	1279777723	Contributors_09	CR_ContributorCount			
+	1296555301	Contributors_10	CR_ContributorCount			
+	2999944802	Action_08	ActionUpdate			
+	2999944803	Action_09	ActionUpdate			
+	2999944808	Action_02	ActionUpdate			
+	2999944809	Action_03	ActionUpdate			
+	2999944811	Action_01	ActionUpdate			
+	2999944812	Action_06	ActionUpdate			
+	2999944813	Action_07	ActionUpdate			
+	2999944814	Action_04	ActionUpdate			
+	2999944815	Action_05	ActionUpdate			
+	3016722397	Action_10	ActionUpdate			
+	2924478804	Minute_04	MinuteNumber_teamMate			
+	2924478805	Minute_05	MinuteNumber_teamMate			
+	2924478806	Minute_06	MinuteNumber_teamMate			
+	2924478807	Minute_07	MinuteNumber_teamMate			
+	2924478808	Minute_08	MinuteNumber_teamMate			
+	2924478809	Minute_09	MinuteNumber_teamMate			
+	2941256384	Minute_13	MinuteNumber_teamMate			
+	2941256385	Minute_12	MinuteNumber_teamMate			
+	2941256386	Minute_11	MinuteNumber_teamMate			
+	2941256387	Minute_10	MinuteNumber_teamMate			
+	2941256388	Minute_17	MinuteNumber_teamMate			
+	2941256389	Minute_16	MinuteNumber_teamMate			
+	2941256390	Minute_15	MinuteNumber_teamMate			
+	2941256391	Minute_14	MinuteNumber_teamMate			
+	2941256394	Minute_19	MinuteNumber_teamMate			
+	2941256395	Minute_18	MinuteNumber_teamMate			
+	2958034096	Minute_26	MinuteNumber_teamMate			
+	2958034097	Minute_27	MinuteNumber_teamMate			
+	2958034098	Minute_24	MinuteNumber_teamMate			
+	2958034099	Minute_25	MinuteNumber_teamMate			
+	2958034100	Minute_22	MinuteNumber_teamMate			
+	2958034101	Minute_23	MinuteNumber_teamMate			
+	2958034102	Minute_20	MinuteNumber_teamMate			
+	2958034103	Minute_21	MinuteNumber_teamMate			
+	2958034110	Minute_28	MinuteNumber_teamMate			
+	2958034111	Minute_29	MinuteNumber_teamMate			
+	2974811689	Minute_30	MinuteNumber_teamMate			
+	3177761616	second_08	SilenceLength			
+	3177761617	second_09	SilenceLength			
+	3177761625	second_01	SilenceLength			
+	3177761626	second_02	SilenceLength			
+	3177761627	second_03	SilenceLength			
+	3177761628	second_04	SilenceLength			
+	3177761629	second_05	SilenceLength			
+	3177761630	second_06	SilenceLength			
+	3177761631	second_07	SilenceLength			
+	3194539202	second_19	SilenceLength			
+	3194539203	second_18	SilenceLength			
+	3194539208	second_13	SilenceLength			
+	3194539209	second_12	SilenceLength			
+	3194539210	second_11	SilenceLength			
+	3194539211	second_10	SilenceLength			
+	3194539212	second_17	SilenceLength			
+	3194539213	second_16	SilenceLength			
+	3194539214	second_15	SilenceLength			
+	3194539215	second_14	SilenceLength			
+	3211316918	second_28	SilenceLength			
+	3211316919	second_29	SilenceLength			
+	3211316920	second_26	SilenceLength			
+	3211316921	second_27	SilenceLength			
+	3211316922	second_24	SilenceLength			
+	3211316923	second_25	SilenceLength			
+	3211316924	second_22	SilenceLength			
+	3211316925	second_23	SilenceLength			
+	3211316926	second_20	SilenceLength			
+	3211316927	second_21	SilenceLength			
+	3228094481	second_30	SilenceLength			
+	2684124640	Message_09	MotivationalMessage			
+	2684124641	Message_08	MotivationalMessage			
+	2684124648	Message_01	MotivationalMessage			
+	2684124650	Message_03	MotivationalMessage			
+	2684124651	Message_02	MotivationalMessage			
+	2684124652	Message_05	MotivationalMessage			
+	2684124653	Message_04	MotivationalMessage			
+	2684124654	Message_07	MotivationalMessage			
+	2684124655	Message_06	MotivationalMessage			
+	24021151	KM_Point5	TotalDistanceKM			
+	284907880	KM_07Point5	TotalDistanceKM			
+	676436821	KM_06Point5	TotalDistanceKM			
+	781657116	KM_10Point5	TotalDistanceKM			
+	794644818	KM_09Point5	TotalDistanceKM			
+	814317195	KM_04Point5	TotalDistanceKM			
+	1145382823	KM_08Point5	TotalDistanceKM			
+	1978151308	KM_03Point5	TotalDistanceKM			
+	2566543156	KM_08	TotalDistanceKM			
+	2566543157	KM_09	TotalDistanceKM			
+	2566543160	KM_04	TotalDistanceKM			
+	2566543161	KM_05	TotalDistanceKM			
+	2566543162	KM_06	TotalDistanceKM			
+	2566543163	KM_07	TotalDistanceKM			
+	2566543165	KM_01	TotalDistanceKM			
+	2566543166	KM_02	TotalDistanceKM			
+	2566543167	KM_03	TotalDistanceKM			
+	2583320750	KM_11	TotalDistanceKM			
+	2583320751	KM_10	TotalDistanceKM			
+	2782255929	KM_02Point5	TotalDistanceKM			
+	2943079690	KM_01Point5	TotalDistanceKM			
+	4284814710	KM_05Point5	TotalDistanceKM			
+	931160808	Third	RunnerPlacement			
+	998496889	First	RunnerPlacement			
+	3476314365	Second	RunnerPlacement			
+	678209053	Two	SamePacePlayers			
+	766521211	Zero	SamePacePlayers			
+	912956111	Three	SamePacePlayers			
+	1064933119	One	SamePacePlayers			
+	1274682275	Several	SamePacePlayers			
+	2611770117	Five	SamePacePlayers			
+	2863728729	Four	SamePacePlayers			
+	3050958819	ALot	SamePacePlayers			
+	687880736	NotDone	Mission_Done_NotDone			
+	1861070025	Done	Mission_Done_NotDone			
+	1565211304	Attempt_03	CR_CurrentRunAttemptCountInvited			
+	1565211305	Attempt_02	CR_CurrentRunAttemptCountInvited			
+	1565211306	Attempt_01	CR_CurrentRunAttemptCountInvited			
+	1565211310	Attempt_05	CR_CurrentRunAttemptCountInvited			
+	1565211311	Attempt_04	CR_CurrentRunAttemptCountInvited			
+	416985628	JP_20	JoinPoint			
+	450540896	JP_02	JoinPoint			
+	450540897	JP_03	JoinPoint			
+	450540899	JP_01	JoinPoint			
+	450540900	JP_06	JoinPoint			
+	450540901	JP_07	JoinPoint			
+	450540902	JP_04	JoinPoint			
+	450540903	JP_05	JoinPoint			
+	450540906	JP_08	JoinPoint			
+	450540907	JP_09	JoinPoint			
+	467318480	JP_15	JoinPoint			
+	467318481	JP_14	JoinPoint			
+	467318482	JP_17	JoinPoint			
+	467318483	JP_16	JoinPoint			
+	467318484	JP_11	JoinPoint			
+	467318485	JP_10	JoinPoint			
+	467318486	JP_13	JoinPoint			
+	467318487	JP_12	JoinPoint			
+	467318492	JP_19	JoinPoint			
+	467318493	JP_18	JoinPoint			
+	319193142	mins_10	MinutesToStart			
+	335970720	mins_09	MinutesToStart			
+	335970721	mins_08	MinutesToStart			
+	335970728	mins_01	MinutesToStart			
+	335970730	mins_03	MinutesToStart			
+	335970731	mins_02	MinutesToStart			
+	335970732	mins_05	MinutesToStart			
+	335970733	mins_04	MinutesToStart			
+	335970734	mins_07	MinutesToStart			
+	335970735	mins_06	MinutesToStart			
+	781785234	OVER30	RegOrUnder4OrOver30_Minutes			
+	3112830623	UNDER4	RegOrUnder4OrOver30_Minutes			
+	3688905975	REGULARMINUTE	RegOrUnder4OrOver30_Minutes			
+	2307651649	Quest_01	RandomEncounterNumber			
+	2307651650	Quest_02	RandomEncounterNumber			
+	2307651651	Quest_03	RandomEncounterNumber			
+	2307651652	Quest_04	RandomEncounterNumber			
+	2307651653	Quest_05	RandomEncounterNumber			
+	2307651654	Quest_06	RandomEncounterNumber			
+	2307651655	Quest_07	RandomEncounterNumber			
+	2307651656	Quest_08	RandomEncounterNumber			
+	2307651657	Quest_09	RandomEncounterNumber			
+	2324429360	Quest_13	RandomEncounterNumber			
+	2324429361	Quest_12	RandomEncounterNumber			
+	2324429362	Quest_11	RandomEncounterNumber			
+	2324429363	Quest_10	RandomEncounterNumber			
+	2324429364	Quest_17	RandomEncounterNumber			
+	2324429365	Quest_16	RandomEncounterNumber			
+	2324429366	Quest_15	RandomEncounterNumber			
+	2324429367	Quest_14	RandomEncounterNumber			
+	2324429370	Quest_19	RandomEncounterNumber			
+	2324429371	Quest_18	RandomEncounterNumber			
+	2341206944	Quest_26	RandomEncounterNumber			
+	2341206945	Quest_27	RandomEncounterNumber			
+	2341206946	Quest_24	RandomEncounterNumber			
+	2341206947	Quest_25	RandomEncounterNumber			
+	2341206948	Quest_22	RandomEncounterNumber			
+	2341206949	Quest_23	RandomEncounterNumber			
+	2341206950	Quest_20	RandomEncounterNumber			
+	2341206951	Quest_21	RandomEncounterNumber			
+	2341206958	Quest_28	RandomEncounterNumber			
+	2341206959	Quest_29	RandomEncounterNumber			
+	2357984528	Quest_39	RandomEncounterNumber			
+	2357984529	Quest_38	RandomEncounterNumber			
+	2357984536	Quest_31	RandomEncounterNumber			
+	2357984537	Quest_30	RandomEncounterNumber			
+	2357984538	Quest_33	RandomEncounterNumber			
+	2357984539	Quest_32	RandomEncounterNumber			
+	2357984540	Quest_35	RandomEncounterNumber			
+	2357984541	Quest_34	RandomEncounterNumber			
+	2357984542	Quest_37	RandomEncounterNumber			
+	2357984543	Quest_36	RandomEncounterNumber			
+	2374762116	Quest_48	RandomEncounterNumber			
+	2374762117	Quest_49	RandomEncounterNumber			
+	2374762120	Quest_44	RandomEncounterNumber			
+	2374762121	Quest_45	RandomEncounterNumber			
+	2374762122	Quest_46	RandomEncounterNumber			
+	2374762123	Quest_47	RandomEncounterNumber			
+	2374762124	Quest_40	RandomEncounterNumber			
+	2374762125	Quest_41	RandomEncounterNumber			
+	2374762126	Quest_42	RandomEncounterNumber			
+	2374762127	Quest_43	RandomEncounterNumber			
+	2391539839	Quest_50	RandomEncounterNumber			
+	274470240	Seven	CurrentPlayersNumberTeam			
+	577793775	Six	CurrentPlayersNumberTeam			
+	678209053	Two	CurrentPlayersNumberTeam			
+	912956111	Three	CurrentPlayersNumberTeam			
+	913095698	Ten	CurrentPlayersNumberTeam			
+	1064933119	One	CurrentPlayersNumberTeam			
+	1285484693	Nine	CurrentPlayersNumberTeam			
+	1715921918	Eight	CurrentPlayersNumberTeam			
+	2611770117	Five	CurrentPlayersNumberTeam			
+	2863728729	Four	CurrentPlayersNumberTeam			
+	3050958819	ALot	CurrentPlayersNumberTeam			
+	537289917	ThemedMusic	JoinPoint_MusicControl			
+	3482142806	FreeRun	JoinPoint_MusicControl			
+	766521211	Zero	CR_Completed_ZeroOrMore			
+	2944094190	More	CR_Completed_ZeroOrMore			
+	2924478803	Minute_03	MinuteNumber			
+	2924478804	Minute_04	MinuteNumber			
+	2924478805	Minute_05	MinuteNumber			
+	2924478806	Minute_06	MinuteNumber			
+	2924478807	Minute_07	MinuteNumber			
+	2924478808	Minute_08	MinuteNumber			
+	2924478809	Minute_09	MinuteNumber			
+	2941256384	Minute_13	MinuteNumber			
+	2941256385	Minute_12	MinuteNumber			
+	2941256386	Minute_11	MinuteNumber			
+	2941256387	Minute_10	MinuteNumber			
+	2941256388	Minute_17	MinuteNumber			
+	2941256389	Minute_16	MinuteNumber			
+	2941256390	Minute_15	MinuteNumber			
+	2941256391	Minute_14	MinuteNumber			
+	2941256394	Minute_19	MinuteNumber			
+	2941256395	Minute_18	MinuteNumber			
+	2958034096	Minute_26	MinuteNumber			
+	2958034097	Minute_27	MinuteNumber			
+	2958034098	Minute_24	MinuteNumber			
+	2958034099	Minute_25	MinuteNumber			
+	2958034100	Minute_22	MinuteNumber			
+	2958034101	Minute_23	MinuteNumber			
+	2958034102	Minute_20	MinuteNumber			
+	2958034103	Minute_21	MinuteNumber			
+	2958034110	Minute_28	MinuteNumber			
+	2958034111	Minute_29	MinuteNumber			
+	2974811689	Minute_30	MinuteNumber			
+	258555455	Time_1290	JoinPointTotalTime			
+	342443486	Time_1260	JoinPointTotalTime			
+	375998756	Time_1200	JoinPointTotalTime			
+	426331645	Time_1230	JoinPointTotalTime			
+	810961030	Time_210	JoinPointTotalTime			
+	844516332	Time_270	JoinPointTotalTime			
+	878218665	Time_150	JoinPointTotalTime			
+	878365696	Time_090	JoinPointTotalTime			
+	894849189	Time_240	JoinPointTotalTime			
+	894996252	Time_120	JoinPointTotalTime			
+	995956220	Time_780	JoinPointTotalTime			
+	1029364331	Time_000	JoinPointTotalTime			
+	1046141918	Time_030	JoinPointTotalTime			
+	1062772442	Time_180	JoinPointTotalTime			
+	1079844251	Time_750	JoinPointTotalTime			
+	1080829957	Time_990	JoinPointTotalTime			
+	1097607672	Time_960	JoinPointTotalTime			
+	1130030077	Time_060	JoinPointTotalTime			
+	1163732410	Time_720	JoinPointTotalTime			
+	1181495703	Time_930	JoinPointTotalTime			
+	1198273290	Time_900	JoinPointTotalTime			
+	2154720528	Time_1020	JoinPointTotalTime			
+	2167969530	Time_DOWNTIME	JoinPointTotalTime			
+	2219118662	Time_ToggleOffUpdates	JoinPointTotalTime			
+	2221978163	Time_1140	JoinPointTotalTime			
+	2238755750	Time_1170	JoinPointTotalTime			
+	2272163861	Time_1050	JoinPointTotalTime			
+	2272310924	Time_1110	JoinPointTotalTime			
+	2322496750	Time_1080	JoinPointTotalTime			
+	2874358000	Time_300	JoinPointTotalTime			
+	2892959968	Time_810	JoinPointTotalTime			
+	2924690761	Time_330	JoinPointTotalTime			
+	2959231769	Time_510	JoinPointTotalTime			
+	2959378928	Time_450	JoinPointTotalTime			
+	2975023618	Time_360	JoinPointTotalTime			
+	2976848031	Time_840	JoinPointTotalTime			
+	2992787071	Time_570	JoinPointTotalTime			
+	2993625714	Time_870	JoinPointTotalTime			
+	3009564626	Time_540	JoinPointTotalTime			
+	3025356507	Time_390	JoinPointTotalTime			
+	3076822261	Time_420	JoinPointTotalTime			
+	3177487879	Time_480	JoinPointTotalTime			
+	3227526642	Time_690	JoinPointTotalTime			
+	3277859403	Time_660	JoinPointTotalTime			
+	3328192260	Time_630	JoinPointTotalTime			
+	3378525149	Time_600	JoinPointTotalTime			
+	1287055489	Mission_01	MissionUpdate			
+	1287055490	Mission_02	MissionUpdate			
+	1287055491	Mission_03	MissionUpdate			
+	1287055492	Mission_04	MissionUpdate			
+	1287055493	Mission_05	MissionUpdate			
+	1287055494	Mission_06	MissionUpdate			
+	1287055495	Mission_07	MissionUpdate			
+	1287055496	Mission_08	MissionUpdate			
+	1287055497	Mission_09	MissionUpdate			
+	1303833203	Mission_10	MissionUpdate			
+	781785234	OVER30	RegOrOver30TeamMateMinutes			
+	3688905975	REGULARMINUTE	RegOrOver30TeamMateMinutes			
+	3450431887	Plural	TotalDistanceSingularOrPlural			
+	4148215030	Singular	TotalDistanceSingularOrPlural			
+	212475710	Not_Expired	CR_ExpireTime			
+	1157067516	Expired	CR_ExpireTime			
+	979765101	Win	SegmentScore			
+	1560199862	SuperFail	SegmentScore			
+	2596272617	Fail	SegmentScore			
+	3573754172	SuperWin	SegmentScore			
+	771268296	Solo	CR_SoloOrTeam_MUS_Control			
+	3391889866	Team	CR_SoloOrTeam_MUS_Control			
+	2566543156	KM_08	MinGoalDistance			
+	2566543157	KM_09	MinGoalDistance			
+	2566543160	KM_04	MinGoalDistance			
+	2566543161	KM_05	MinGoalDistance			
+	2566543162	KM_06	MinGoalDistance			
+	2566543163	KM_07	MinGoalDistance			
+	2566543165	KM_01	MinGoalDistance			
+	2566543166	KM_02	MinGoalDistance			
+	2566543167	KM_03	MinGoalDistance			
+	2583320742	KM_19	MinGoalDistance			
+	2583320743	KM_18	MinGoalDistance			
+	2583320744	KM_17	MinGoalDistance			
+	2583320745	KM_16	MinGoalDistance			
+	2583320746	KM_15	MinGoalDistance			
+	2583320747	KM_14	MinGoalDistance			
+	2583320748	KM_13	MinGoalDistance			
+	2583320749	KM_12	MinGoalDistance			
+	2583320750	KM_11	MinGoalDistance			
+	2583320751	KM_10	MinGoalDistance			
+	2600098306	KM_20	MinGoalDistance			
+	848159235	VeryClose	DistanceFromTargetCollection			
+	1183803292	Far	DistanceFromTargetCollection			
+	1283428648	VeryFar	DistanceFromTargetCollection			
+	1451272583	Close	DistanceFromTargetCollection			
+	347676012	MinGoalMet	MinGoalMetNotMet			
+	1954650893	MinGoalNotMet	MinGoalMetNotMet			
+	423899297	TeamMateIsWayFaster	EncouragementTypeTeam			
+	1146824612	TeamMateIsWaySlower	EncouragementTypeTeam			
+	1741043790	TeamMateIsFaster	EncouragementTypeTeam			
+	2228875011	TeamMateIsSlower	EncouragementTypeTeam			
+	2247712515	TeamMateOnPace	EncouragementTypeTeam			
+	3177761616	Second_08	SecondNumber__Baseline			
+	3177761617	Second_09	SecondNumber__Baseline			
+	3177761625	Second_01	SecondNumber__Baseline			
+	3177761626	Second_02	SecondNumber__Baseline			
+	3177761627	Second_03	SecondNumber__Baseline			
+	3177761628	Second_04	SecondNumber__Baseline			
+	3177761629	Second_05	SecondNumber__Baseline			
+	3177761630	Second_06	SecondNumber__Baseline			
+	3177761631	Second_07	SecondNumber__Baseline			
+	3194539202	Second_19	SecondNumber__Baseline			
+	3194539203	Second_18	SecondNumber__Baseline			
+	3194539208	Second_13	SecondNumber__Baseline			
+	3194539209	Second_12	SecondNumber__Baseline			
+	3194539210	Second_11	SecondNumber__Baseline			
+	3194539211	Second_10	SecondNumber__Baseline			
+	3194539212	Second_17	SecondNumber__Baseline			
+	3194539213	Second_16	SecondNumber__Baseline			
+	3194539214	Second_15	SecondNumber__Baseline			
+	3194539215	Second_14	SecondNumber__Baseline			
+	3211316918	Second_28	SecondNumber__Baseline			
+	3211316919	Second_29	SecondNumber__Baseline			
+	3211316920	Second_26	SecondNumber__Baseline			
+	3211316921	Second_27	SecondNumber__Baseline			
+	3211316922	Second_24	SecondNumber__Baseline			
+	3211316923	Second_25	SecondNumber__Baseline			
+	3211316924	Second_22	SecondNumber__Baseline			
+	3211316925	Second_23	SecondNumber__Baseline			
+	3211316926	Second_20	SecondNumber__Baseline			
+	3211316927	Second_21	SecondNumber__Baseline			
+	3228094480	Second_31	SecondNumber__Baseline			
+	3228094481	Second_30	SecondNumber__Baseline			
+	3228094482	Second_33	SecondNumber__Baseline			
+	3228094483	Second_32	SecondNumber__Baseline			
+	3228094484	Second_35	SecondNumber__Baseline			
+	3228094485	Second_34	SecondNumber__Baseline			
+	3228094486	Second_37	SecondNumber__Baseline			
+	3228094487	Second_36	SecondNumber__Baseline			
+	3228094488	Second_39	SecondNumber__Baseline			
+	3228094489	Second_38	SecondNumber__Baseline			
+	3244872064	Second_44	SecondNumber__Baseline			
+	3244872065	Second_45	SecondNumber__Baseline			
+	3244872066	Second_46	SecondNumber__Baseline			
+	3244872067	Second_47	SecondNumber__Baseline			
+	3244872068	Second_40	SecondNumber__Baseline			
+	3244872069	Second_41	SecondNumber__Baseline			
+	3244872070	Second_42	SecondNumber__Baseline			
+	3244872071	Second_43	SecondNumber__Baseline			
+	3244872076	Second_48	SecondNumber__Baseline			
+	3244872077	Second_49	SecondNumber__Baseline			
+	3261649776	Second_57	SecondNumber__Baseline			
+	3261649777	Second_56	SecondNumber__Baseline			
+	3261649778	Second_55	SecondNumber__Baseline			
+	3261649779	Second_54	SecondNumber__Baseline			
+	3261649780	Second_53	SecondNumber__Baseline			
+	3261649781	Second_52	SecondNumber__Baseline			
+	3261649782	Second_51	SecondNumber__Baseline			
+	3261649783	Second_50	SecondNumber__Baseline			
+	3261649790	Second_59	SecondNumber__Baseline			
+	3261649791	Second_58	SecondNumber__Baseline			
+	3476314365	Second	SecondNumber__Baseline			
+	655505543	OneSecond	OneSecondOrMultiSeconds_Baseline			
+	881254439	MultiSeconds	OneSecondOrMultiSeconds_Baseline			
+	2596114211	NoSeconds	OneSecondOrMultiSeconds_Baseline			
+	615011428	Mile_01	TotalDistanceMiles			
+	1622910164	Miles_08	TotalDistanceMiles			
+	1622910165	Miles_09	TotalDistanceMiles			
+	1622910168	Miles_04	TotalDistanceMiles			
+	1622910169	Miles_05	TotalDistanceMiles			
+	1622910170	Miles_06	TotalDistanceMiles			
+	1622910171	Miles_07	TotalDistanceMiles			
+	1622910174	Miles_02	TotalDistanceMiles			
+	1622910175	Miles_03	TotalDistanceMiles			
+	1639687750	Miles_19	TotalDistanceMiles			
+	1639687751	Miles_18	TotalDistanceMiles			
+	1639687752	Miles_17	TotalDistanceMiles			
+	1639687753	Miles_16	TotalDistanceMiles			
+	1639687754	Miles_15	TotalDistanceMiles			
+	1639687755	Miles_14	TotalDistanceMiles			
+	1639687756	Miles_13	TotalDistanceMiles			
+	1639687757	Miles_12	TotalDistanceMiles			
+	1639687758	Miles_11	TotalDistanceMiles			
+	1639687759	Miles_10	TotalDistanceMiles			
+	1656465442	Miles_20	TotalDistanceMiles			
+	2221601470	Miles_20Plus	TotalDistanceMiles			
+	3843924855	Mile_0	TotalDistanceMiles			
+	3625060726	Success	FinalResults			
+	3878839773	Failure	FinalResults			
+	663061472	DistancePercent_20	CollectDistancePercent			
+	663061477	DistancePercent_25	CollectDistancePercent			
+	679839059	DistancePercent_30	CollectDistancePercent			
+	679839062	DistancePercent_35	CollectDistancePercent			
+	696616643	DistancePercent_05	CollectDistancePercent			
+	713394361	DistancePercent_10	CollectDistancePercent			
+	713394364	DistancePercent_15	CollectDistancePercent			
+	730171945	DistancePercent_65	CollectDistancePercent			
+	730171948	DistancePercent_60	CollectDistancePercent			
+	746949530	DistancePercent_75	CollectDistancePercent			
+	746949535	DistancePercent_70	CollectDistancePercent			
+	763727218	DistancePercent_40	CollectDistancePercent			
+	763727223	DistancePercent_45	CollectDistancePercent			
+	780504800	DistancePercent_55	CollectDistancePercent			
+	780504805	DistancePercent_50	CollectDistancePercent			
+	830837691	DistancePercent_85	CollectDistancePercent			
+	830837694	DistancePercent_80	CollectDistancePercent			
+	847615249	DistancePercent_90	CollectDistancePercent			
+	847615252	DistancePercent_95	CollectDistancePercent			
+	2838903563	DistancePercent_100	CollectDistancePercent			
+	2611247776	Story_096	StoryNumber			
+	2611247777	Story_097	StoryNumber			
+	2611247778	Story_094	StoryNumber			
+	2611247779	Story_095	StoryNumber			
+	2611247780	Story_092	StoryNumber			
+	2611247781	Story_093	StoryNumber			
+	2611247782	Story_090	StoryNumber			
+	2611247783	Story_091	StoryNumber			
+	2611247790	Story_098	StoryNumber			
+	2611247791	Story_099	StoryNumber			
+	2628025360	Story_089	StoryNumber			
+	2628025361	Story_088	StoryNumber			
+	2628025368	Story_081	StoryNumber			
+	2628025369	Story_080	StoryNumber			
+	2628025370	Story_083	StoryNumber			
+	2628025371	Story_082	StoryNumber			
+	2628025372	Story_085	StoryNumber			
+	2628025373	Story_084	StoryNumber			
+	2628025374	Story_087	StoryNumber			
+	2628025375	Story_086	StoryNumber			
+	2661433480	Story_100	StoryNumber			
+	2711913520	Story_038	StoryNumber			
+	2711913521	Story_039	StoryNumber			
+	2711913528	Story_030	StoryNumber			
+	2711913529	Story_031	StoryNumber			
+	2711913530	Story_032	StoryNumber			
+	2711913531	Story_033	StoryNumber			
+	2711913532	Story_034	StoryNumber			
+	2711913533	Story_035	StoryNumber			
+	2711913534	Story_036	StoryNumber			
+	2711913535	Story_037	StoryNumber			
+	2728691106	Story_029	StoryNumber			
+	2728691107	Story_028	StoryNumber			
+	2728691112	Story_023	StoryNumber			
+	2728691113	Story_022	StoryNumber			
+	2728691114	Story_021	StoryNumber			
+	2728691115	Story_020	StoryNumber			
+	2728691116	Story_027	StoryNumber			
+	2728691117	Story_026	StoryNumber			
+	2728691118	Story_025	StoryNumber			
+	2728691119	Story_024	StoryNumber			
+	2745468694	Story_018	StoryNumber			
+	2745468695	Story_019	StoryNumber			
+	2745468696	Story_016	StoryNumber			
+	2745468697	Story_017	StoryNumber			
+	2745468698	Story_014	StoryNumber			
+	2745468699	Story_015	StoryNumber			
+	2745468700	Story_012	StoryNumber			
+	2745468701	Story_013	StoryNumber			
+	2745468702	Story_010	StoryNumber			
+	2745468703	Story_011	StoryNumber			
+	2762246384	Story_001	StoryNumber			
+	2762246386	Story_003	StoryNumber			
+	2762246387	Story_002	StoryNumber			
+	2762246388	Story_005	StoryNumber			
+	2762246389	Story_004	StoryNumber			
+	2762246390	Story_007	StoryNumber			
+	2762246391	Story_006	StoryNumber			
+	2762246392	Story_009	StoryNumber			
+	2762246393	Story_008	StoryNumber			
+	2779023968	Story_074	StoryNumber			
+	2779023969	Story_075	StoryNumber			
+	2779023970	Story_076	StoryNumber			
+	2779023971	Story_077	StoryNumber			
+	2779023972	Story_070	StoryNumber			
+	2779023973	Story_071	StoryNumber			
+	2779023974	Story_072	StoryNumber			
+	2779023975	Story_073	StoryNumber			
+	2779023980	Story_078	StoryNumber			
+	2779023981	Story_079	StoryNumber			
+	2795801552	Story_067	StoryNumber			
+	2795801553	Story_066	StoryNumber			
+	2795801554	Story_065	StoryNumber			
+	2795801555	Story_064	StoryNumber			
+	2795801556	Story_063	StoryNumber			
+	2795801557	Story_062	StoryNumber			
+	2795801558	Story_061	StoryNumber			
+	2795801559	Story_060	StoryNumber			
+	2795801566	Story_069	StoryNumber			
+	2795801567	Story_068	StoryNumber			
+	2812579138	Story_058	StoryNumber			
+	2812579139	Story_059	StoryNumber			
+	2812579144	Story_052	StoryNumber			
+	2812579145	Story_053	StoryNumber			
+	2812579146	Story_050	StoryNumber			
+	2812579147	Story_051	StoryNumber			
+	2812579148	Story_056	StoryNumber			
+	2812579149	Story_057	StoryNumber			
+	2812579150	Story_054	StoryNumber			
+	2812579151	Story_055	StoryNumber			
+	2829356852	Story_049	StoryNumber			
+	2829356853	Story_048	StoryNumber			
+	2829356856	Story_045	StoryNumber			
+	2829356857	Story_044	StoryNumber			
+	2829356858	Story_047	StoryNumber			
+	2829356859	Story_046	StoryNumber			
+	2829356860	Story_041	StoryNumber			
+	2829356861	Story_040	StoryNumber			
+	2829356862	Story_043	StoryNumber			
+	2829356863	Story_042	StoryNumber			
+	24021151	KM_Point5	MinGoalDistanceRemaining			
+	187088925	KM_03_andAHalf	MinGoalDistanceRemaining			
+	282390355	KM_01_andAHalf	MinGoalDistanceRemaining			
+	521568444	KM_04_andAHalf	MinGoalDistanceRemaining			
+	803742713	KM_07_andAHalf	MinGoalDistanceRemaining			
+	1680468069	KM_Over10	MinGoalDistanceRemaining			
+	2566543156	KM_08	MinGoalDistanceRemaining			
+	2566543157	KM_09	MinGoalDistanceRemaining			
+	2566543160	KM_04	MinGoalDistanceRemaining			
+	2566543161	KM_05	MinGoalDistanceRemaining			
+	2566543162	KM_06	MinGoalDistanceRemaining			
+	2566543163	KM_07	MinGoalDistanceRemaining			
+	2566543164	KM_00	MinGoalDistanceRemaining			
+	2566543165	KM_01	MinGoalDistanceRemaining			
+	2566543166	KM_02	MinGoalDistanceRemaining			
+	2566543167	KM_03	MinGoalDistanceRemaining			
+	2583320751	KM_10	MinGoalDistanceRemaining			
+	2656449083	KM_09_andAHalf	MinGoalDistanceRemaining			
+	3269153391	KM_05_andAHalf	MinGoalDistanceRemaining			
+	3640723325	KM_Point25	MinGoalDistanceRemaining			
+	4000117606	KM_06_andAHalf	MinGoalDistanceRemaining			
+	4085748490	KM_02_andAHalf	MinGoalDistanceRemaining			
+	4178501912	KM_08_andAHalf	MinGoalDistanceRemaining			
+	319193142	mins_10	MinutesToEnd			
+	335970720	mins_09	MinutesToEnd			
+	335970721	mins_08	MinutesToEnd			
+	335970728	mins_01	MinutesToEnd			
+	335970730	mins_03	MinutesToEnd			
+	335970731	mins_02	MinutesToEnd			
+	335970732	mins_05	MinutesToEnd			
+	335970733	mins_04	MinutesToEnd			
+	335970734	mins_07	MinutesToEnd			
+	335970735	mins_06	MinutesToEnd			
+	4236826938	Invited_10	CurrentPlayersInvited			
+	4253604516	Invited_09	CurrentPlayersInvited			
+	4253604517	Invited_08	CurrentPlayersInvited			
+	4253604520	Invited_05	CurrentPlayersInvited			
+	4253604521	Invited_04	CurrentPlayersInvited			
+	4253604522	Invited_07	CurrentPlayersInvited			
+	4253604523	Invited_06	CurrentPlayersInvited			
+	4253604524	Invited_01	CurrentPlayersInvited			
+	4253604525	Invited_00	CurrentPlayersInvited			
+	4253604526	Invited_03	CurrentPlayersInvited			
+	4253604527	Invited_02	CurrentPlayersInvited			
+	806839691	J_IntroIntervals_PL_MysteriousVoiceReturns	IntervalsWithJenny			
+	918772867	J_IntroIntervals_YN_SecondSprint_3_MiniQuest	IntervalsWithJenny			
+	1044494306	J_IntroIntervals_RunBot_BlessingOfPeace	IntervalsWithJenny			
+	1079632798	J_IntroIntervals_PL_HackingIn	IntervalsWithJenny			
+	1334317040	J_IntroIntervals_PL_WatchYourExpression	IntervalsWithJenny			
+	1528802427	J_IntroIntervals_Q_FirstSprint	IntervalsWithJenny			
+	1594648181	J_IntroIntervals_PL_DiscoveredByDrew	IntervalsWithJenny			
+	2464399694	J_IntroIntervals_PL_SecondSprint	IntervalsWithJenny			
+	2684080818	J_IntroIntervals_COMPLETE	IntervalsWithJenny			
+	2788404293	J_IntroIntervals_YN_FirstSprint_MiniQuest	IntervalsWithJenny			
+	3089581231	J_IntroIntervals_PL_Recall_YesNoSystem	IntervalsWithJenny			
+	3236237728	J_IntroIntervals_PL_SomethingDifferentInMind	IntervalsWithJenny			
+	3310931348	J_IntroIntervals_Q_SecondSprint_2	IntervalsWithJenny			
+	3361364677	J_IntroIntervals_ThankYouForTraining	IntervalsWithJenny			
+	3424379844	J_IntroIntervals_YN_SuspiciousOfDrew_2_YN	IntervalsWithJenny			
+	3822516759	J_IntroIntervals_Q_SuspiciousOfDrew	IntervalsWithJenny			
+	4263424578	J_IntroIntervals_PL_DoYouTrustMe	IntervalsWithJenny			
+	1167304158	Completed_01	CR_CompletedRunCount			
+	1167304159	Completed_00	CR_CompletedRunCount			
+	554856176	ST_14	StoryEpisode			
+	554856177	ST_15	StoryEpisode			
+	554856178	ST_16	StoryEpisode			
+	554856179	ST_17	StoryEpisode			
+	554856180	ST_10	StoryEpisode			
+	554856181	ST_11	StoryEpisode			
+	554856182	ST_12	StoryEpisode			
+	554856183	ST_13	StoryEpisode			
+	554856188	ST_18	StoryEpisode			
+	554856189	ST_19	StoryEpisode			
+	571633760	ST_07	StoryEpisode			
+	571633761	ST_06	StoryEpisode			
+	571633762	ST_05	StoryEpisode			
+	571633763	ST_04	StoryEpisode			
+	571633764	ST_03	StoryEpisode			
+	571633765	ST_02	StoryEpisode			
+	571633766	ST_01	StoryEpisode			
+	571633767	ST_00	StoryEpisode			
+	571633774	ST_09	StoryEpisode			
+	571633775	ST_08	StoryEpisode			
+	605188940	ST_21	StoryEpisode			
+	605188941	ST_20	StoryEpisode			
+	619258800	Percent_10	AnsweredYesPercent			
+	636036387	Percent_00	AnsweredYesPercent			
+	652813974	Percent_30	AnsweredYesPercent			
+	669591561	Percent_20	AnsweredYesPercent			
+	686369276	Percent_50	AnsweredYesPercent			
+	703146863	Percent_40	AnsweredYesPercent			
+	719924418	Percent_70	AnsweredYesPercent			
+	736702133	Percent_60	AnsweredYesPercent			
+	753479720	Percent_90	AnsweredYesPercent			
+	770257307	Percent_80	AnsweredYesPercent			
+	3405983264	Percent_100	AnsweredYesPercent			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	72995250	Disaster02_MUS			\Default Work Unit\Run Abilities\Mixie Intervals\Disaster MUS Stems\Disaster02_MUS	
+	261089142	GameMode			\Default Work Unit\GameMode	
+	375726501	Mission			\Default Work Unit\Mission	
+	553624549	Disaster01			\Default Work Unit\Run Abilities\Mixie Intervals\Disaster01	
+	553624550	Disaster02			\Default Work Unit\Run Abilities\Mixie Intervals\Disaster02	
+	553624551	Disaster03			\Default Work Unit\Run Abilities\Mixie Intervals\Disaster03	
+	650808301	IntervalPercent			\Default Work Unit\Run Abilities\Mixie Intervals\IntervalPercent	
+	1022820461	GRTheme			\Default Work Unit\GRTheme	
+	1049819313	CR_Role			\Default Work Unit\Challenge Run\CR_Role	
+	1192238321	PowerAura			\Default Work Unit\Run Abilities\Mixie Intervals\PowerAura	
+	1222951626	BuddyState			\Default Work Unit\BuddyState	
+	1254249428	ThemeWeek			\Default Work Unit\ThemeWeek	
+	1529335385	DR_FirstMile_Traveled			\Default Work Unit\DR_FirstMile_Traveled	
+	1648839608	PlayerAnswer			\Default Work Unit\PlayerAnswer	
+	1819958610	CR_MUS			\Default Work Unit\Challenge Run\CR_MUS	
+	1852704696	Sprint_Length			\Default Work Unit\Run Abilities\Sprints\Sprint_Length	
+	1895473648	Pace			\Default Work Unit\Pace	
+	2664047262	IntervalLength			\Default Work Unit\Run Abilities\Mixie Intervals\IntervalLength	
+	2727257388	TaskResults			\Default Work Unit\Run Abilities\TaskResults	
+	2875090560	TempoLevel			\Default Work Unit\TempoLevel	
+	3009172574	AveragePace_Length			\Default Work Unit\Run Abilities\Average Pace\AveragePace_Length	
+	3057667157	Disaster01_MUS			\Default Work Unit\Run Abilities\Mixie Intervals\Disaster MUS Stems\Disaster01_MUS	
+	3290033168	Gaining			\Default Work Unit\Gaining	
+	3396313399	Disaster03_MUS			\Default Work Unit\Run Abilities\Mixie Intervals\Disaster MUS Stems\Disaster03_MUS	
+	4244151244	SprintState			\Default Work Unit\SprintState	
+
+State	ID	Name	State Group			Notes
+	456157960	Mudslide	Disaster02_MUS			
+	748895195	None	Disaster02_MUS			
+	1245902094	Earthquake	Disaster02_MUS			
+	1338354589	Volcano	Disaster02_MUS			
+	2586554088	Tornado	Disaster02_MUS			
+	3233995015	Flashflood	Disaster02_MUS			
+	4131971214	Hailstorm	Disaster02_MUS			
+	748895195	None	GameMode			
+	1172790326	FitnessRun	GameMode			
+	1979269091	StoryRun	GameMode			
+	58138747	Active	Mission			
+	748895195	None	Mission			
+	1861070025	Done	Mission			
+	456157960	Mudslide	Disaster01			
+	748895195	None	Disaster01			
+	1245902094	Earthquake	Disaster01			
+	1338354589	Volcano	Disaster01			
+	2586554088	Tornado	Disaster01			
+	3233995015	Flashflood	Disaster01			
+	4131971214	Hailstorm	Disaster01			
+	456157960	Mudslide	Disaster02			
+	748895195	None	Disaster02			
+	1245902094	Earthquake	Disaster02			
+	1338354589	Volcano	Disaster02			
+	2586554088	Tornado	Disaster02			
+	3233995015	Flashflood	Disaster02			
+	4131971214	Hailstorm	Disaster02			
+	456157960	Mudslide	Disaster03			
+	748895195	None	Disaster03			
+	1245902094	Earthquake	Disaster03			
+	1338354589	Volcano	Disaster03			
+	2586554088	Tornado	Disaster03			
+	3233995015	Flashflood	Disaster03			
+	4131971214	Hailstorm	Disaster03			
+	619258800	Percent_10	IntervalPercent			
+	619258801	Percent_11	IntervalPercent			
+	619258802	Percent_12	IntervalPercent			
+	619258803	Percent_13	IntervalPercent			
+	619258804	Percent_14	IntervalPercent			
+	619258805	Percent_15	IntervalPercent			
+	636036388	Percent_07	IntervalPercent			
+	636036389	Percent_06	IntervalPercent			
+	636036390	Percent_05	IntervalPercent			
+	636036394	Percent_09	IntervalPercent			
+	636036395	Percent_08	IntervalPercent			
+	748895195	None	IntervalPercent			
+	748895195	None	GRTheme			
+	1201743821	NHIE	GRTheme			
+	4267491435	NoTheme	GRTheme			
+	283308254	Invited	CR_Role			
+	748895195	None	CR_Role			
+	3812546222	Owner	CR_Role			
+	585392768	BaselineSet	PowerAura			
+	748895195	None	PowerAura			
+	1192238321	PowerAura	PowerAura			
+	689087500	NoBuddy	BuddyState			
+	748895195	None	BuddyState			
+	1518046061	WithLikelike	BuddyState			
+	3252477805	WithStaplersale	BuddyState			
+	748895195	None	ThemeWeek			
+	2063934121	Week_01	ThemeWeek			
+	2063934122	Week_02	ThemeWeek			
+	2063934123	Week_03	ThemeWeek			
+	748895195	None	DR_FirstMile_Traveled			
+	2452206122	False	DR_FirstMile_Traveled			
+	3053630529	True	DR_FirstMile_Traveled			
+	748895195	None	PlayerAnswer			
+	3318337792	PlayerAnswer_Yes	PlayerAnswer			
+	748895195	None	CR_MUS			
+	3261589628	Milestone_Hype	CR_MUS			
+	3277026573	Base_Stems	CR_MUS			
+	626782043	sec_40	Sprint_Length			
+	626782046	sec_45	Sprint_Length			
+	677114897	sec_15	Sprint_Length			
+	677114900	sec_10	Sprint_Length			
+	693892482	sec_05	Sprint_Length			
+	710670202	sec_30	Sprint_Length			
+	710670207	sec_35	Sprint_Length			
+	727447784	sec_25	Sprint_Length			
+	727447789	sec_20	Sprint_Length			
+	748895195	None	Sprint_Length			
+	748895195	None	Pace			
+	1712600495	OnPace	Pace			
+	1956431059	SlowerThanPacer	Pace			
+	2984842356	FasterThanPacer	Pace			
+	710670202	sec_30	IntervalLength			
+	748895195	None	IntervalLength			
+	1430268820	min_02	IntervalLength			
+	1430268821	min_03	IntervalLength			
+	1430268823	min_01	IntervalLength			
+	748895195	None	TaskResults			
+	2066361917	Task_Fail	TaskResults			
+	3378013929	Task_Win	TaskResults			
+	748895195	None	TempoLevel			
+	1053209283	Trainee	TempoLevel			
+	1999839540	Conductor	TempoLevel			
+	2425894640	Maestro	TempoLevel			
+	3533280825	Associate	TempoLevel			
+	3682226143	Assistant	TempoLevel			
+	748895195	None	AveragePace_Length			
+	1430268816	min_06	AveragePace_Length			
+	1430268817	min_07	AveragePace_Length			
+	1430268818	min_04	AveragePace_Length			
+	1430268819	min_05	AveragePace_Length			
+	1430268820	min_02	AveragePace_Length			
+	1430268821	min_03	AveragePace_Length			
+	1430268823	min_01	AveragePace_Length			
+	1430268830	min_08	AveragePace_Length			
+	456157960	Mudslide	Disaster01_MUS			
+	748895195	None	Disaster01_MUS			
+	1245902094	Earthquake	Disaster01_MUS			
+	1338354589	Volcano	Disaster01_MUS			
+	2586554088	Tornado	Disaster01_MUS			
+	3233995015	Flashflood	Disaster01_MUS			
+	4131971214	Hailstorm	Disaster01_MUS			
+	748895195	None	Gaining			
+	2452206122	False	Gaining			
+	3053630529	True	Gaining			
+	456157960	Mudslide	Disaster03_MUS			
+	748895195	None	Disaster03_MUS			
+	1245902094	Earthquake	Disaster03_MUS			
+	1338354589	Volcano	Disaster03_MUS			
+	2586554088	Tornado	Disaster03_MUS			
+	3233995015	Flashflood	Disaster03_MUS			
+	4131971214	Hailstorm	Disaster03_MUS			
+	748895195	None	SprintState			
+	3691594375	Sprinting	SprintState			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	504532776	Brick			\Factory Reflect Acoustic Textures\Textures\Brick	
+	513139656	Mountain			\Factory Reflect Acoustic Textures\Textures\Mountain	
+	841620460	Concrete			\Factory Reflect Acoustic Textures\Textures\Concrete	
+	1755085759	Wood_Deep			\Factory Reflect Acoustic Textures\Textures\Wood_Deep	
+	1873957695	Anechoic			\Factory Reflect Acoustic Textures\Textures\Anechoic	
+	1970351858	Fabric			\Factory Reflect Acoustic Textures\Textures\Fabric	
+	2058049674	Wood			\Factory Reflect Acoustic Textures\Textures\Wood	
+	2412606308	Carpet			\Factory Reflect Acoustic Textures\Textures\Carpet	
+	2637588553	Tile			\Factory Reflect Acoustic Textures\Textures\Tile	
+	2928161104	Curtains			\Factory Reflect Acoustic Textures\Textures\Curtains	
+	3195498748	Cork_Tiles			\Factory Reflect Acoustic Textures\Textures\Cork_Tiles	
+	3628477563	Volume_MUS			\Default Work Unit\Volume Sliders\Volume_MUS	
+	3670307564	Drywall			\Factory Reflect Acoustic Textures\Textures\Drywall	
+	3673881719	Volume_SFX			\Default Work Unit\Volume Sliders\Volume_SFX	
+	4161707587	Volume_VO			\Default Work Unit\Volume Sliders\Volume_VO	
+	4168643977	Acoustic_Banner			\Factory Reflect Acoustic Textures\Textures\Acoustic_Banner	
+	4262522749	Wood_Bright			\Factory Reflect Acoustic Textures\Textures\Wood_Bright	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	5410881	WalkieTalkie Bus_RIGHT			\Default Work Unit\Master Audio Bus\Master VO Bus\WalkieTalkie Bus_RIGHT	
+	48433064	Master Music Bus			\Default Work Unit\Master Audio Bus\Master Music Bus	
+	222856347	WalkieTalkie Bus_FAR_RIGHT			\Default Work Unit\Master Audio Bus\Master VO Bus\WalkieTalkie Bus_FAR_RIGHT	
+	363091274	WalkieTalkie Bus_DOOM			\Default Work Unit\Master Audio Bus\Master VO Bus\WalkieTalkie Bus_DOOM	
+	474600150	Master VO Bus			\Default Work Unit\Master Audio Bus\Master VO Bus	
+	511474433	HarmBeam SFX Bus			\Default Work Unit\Master Audio Bus\Master SFX Bus\HarmBeam SFX Bus	
+	663904099	VO Bus_MotivMessageMelody			\Default Work Unit\Master Audio Bus\Master VO Bus\VO Bus_MotivMessageMelody	
+	738064476	WalkieTalkie Bus_FAR_LEFT			\Default Work Unit\Master Audio Bus\Master VO Bus\WalkieTalkie Bus_FAR_LEFT	
+	822838118	LongVerbBus			\Default Work Unit\Master Audio Bus\LongVerbBus	
+	827061677	VO Bus_DisasterVoices			\Default Work Unit\Master Audio Bus\Master VO Bus\VO Bus_DisasterVoices	
+	1281922719	VO Bus_Mixie			\Default Work Unit\Master Audio Bus\Master VO Bus\VO Bus_Mixie	
+	1707378762	WalkieTalkie Bus_LEFT			\Default Work Unit\Master Audio Bus\Master VO Bus\WalkieTalkie Bus_LEFT	
+	1738057501	VO Bus_Melody			\Default Work Unit\Master Audio Bus\Master VO Bus\VO Bus_Melody	
+	2018813558	VO Bus			\Default Work Unit\Master Audio Bus\Master VO Bus\VO Bus	
+	2797439050	HarmBeam Messenger Bus Deep Voices			\Default Work Unit\Master Audio Bus\Master VO Bus\HarmBeam Messenger Bus Deep Voices	
+	3070811203	Item SFX Bus			\Default Work Unit\Master Audio Bus\Master SFX Bus\Item SFX Bus	
+	3127962312	Music Bus			\Default Work Unit\Master Audio Bus\Master Music Bus\Music Bus	
+	3577355056	Master SFX Bus			\Default Work Unit\Master Audio Bus\Master SFX Bus	
+	3780726591	Amb Bus_DisasterAmb			\Default Work Unit\Master Audio Bus\Master SFX Bus\Amb Bus_DisasterAmb	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3906729431	VO Bus_Hope			\Default Work Unit\Master Audio Bus\Master VO Bus\VO Bus_Hope	
+	4136710928	HarmBeam Messenger Bus High Voices			\Default Work Unit\Master Audio Bus\Master VO Bus\HarmBeam Messenger Bus High Voices	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	4133691658	Music_Bus_2			\Default Work Unit\Master Audio Bus\Master Music Bus\Music_Bus_2	
+	4155604923	LongReverb			\Default Work Unit\Master Audio Bus\LongReverb	
+
+Effect plug-ins	ID	Name	Type				Notes
+	19847516	New_Wwise_Parametric_EQ_02_(Custom)	Wwise Parametric EQ			
+	59662939	Dialog_Too_Quiet	Wwise Compressor			
+	134870141	Wwise_Parametric_EQ_(Custom)	Wwise Parametric EQ			
+	170808716	New_Wwise_Parametric_EQ_02_(Custom)	Wwise Parametric EQ			
+	175115294	Wwise_Parametric_EQ_(Custom)	Wwise Parametric EQ			
+	472988152	Wwise_Parametric_EQ_(Custom)	Wwise Parametric EQ			
+	606455121	Wwise_Parametric_EQ_(Custom)	Wwise Parametric EQ			
+	640810264	Wwise_Parametric_EQ_(Custom)	Wwise Parametric EQ			
+	673212931	Wwise_Parametric_EQ_(Custom)	Wwise Parametric EQ			
+	725929674	Wwise_Parametric_EQ_(Custom)	Wwise Parametric EQ			
+	737755563	New_Wwise_Parametric_EQ_02_(Custom)	Wwise Parametric EQ			
+	888828109	Wwise_Parametric_EQ_(Custom)	Wwise Parametric EQ			
+	897808237	Wwise_Parametric_EQ_(Custom)	Wwise Parametric EQ			
+	975391643	Hall_Large_(Custom)	Wwise RoomVerb			
+	989110075	Wwise_Parametric_EQ_(Custom)	Wwise Parametric EQ			
+	1067416652	New_Wwise_Parametric_EQ_02_(Custom)	Wwise Parametric EQ			
+	1674078407	Chorus_Like	Wwise Flanger			
+	1706684651	Plate_Medium	Wwise RoomVerb			
+	2171939413	Dialog_Leveler_Hard	Wwise Compressor			
+	2180422931	One_Tap_Quarter_Second	Wwise Delay			
+	2513915904	Hall_Large	Wwise RoomVerb			
+	2652646462	Dialog_Leveler_Soft	Wwise Compressor			
+	2689776682	New_Wwise_Parametric_EQ_02	Wwise Parametric EQ			
+	3025917178	Standard	Wwise Flanger			
+	3043085106	High_Impact	Wwise Compressor			
+	3451596814	Hall_Medium	Wwise RoomVerb			
+	3796564934	Hard_Knee_Minus_3dB_RMS	Wwise Compressor			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

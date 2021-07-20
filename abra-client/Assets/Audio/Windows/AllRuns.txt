@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	393067410	SFX_Pickup_ChallengeTimer			\Andy VO Work Unit\Production 2\Items\SFX_Pickup_ChallengeTimer	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	657908982	SFX_Pickup_ChallengeTimer	C:\Users\Sam\Repos\abra\abra-wwise\.cache\Windows\SFX\SFX_Pickup_ChallengeTimer_0C6DDFE4.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\SFX\Item Pickup\SFX_Pickup_ChallengeTimer		39378
+

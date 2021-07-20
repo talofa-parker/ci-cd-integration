@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3213ed949058a0d47826c5f3bd819e6d, type: 3}
+  m_Name: Main
+  m_EditorClassIdentifier: 
+  m_dataPerPlatformList:
+  - WwisePlatform: iOS
+    LocalizedBankKeys:
+    - SFX
+    LocalizedBanksValues:
+    - m_AssetGUID: 0be60c13cd12c4241ae39f4488a7adef
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  - WwisePlatform: Windows
+    LocalizedBankKeys:
+    - SFX
+    LocalizedBanksValues:
+    - m_AssetGUID: 2aa164bb57b2d73498f77c376abb5ed3
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  - WwisePlatform: Mac
+    LocalizedBankKeys:
+    - SFX
+    LocalizedBanksValues:
+    - m_AssetGUID: d610ee225636a5a4aba34e09f871fcfe
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  - WwisePlatform: Android
+    LocalizedBankKeys:
+    - SFX
+    LocalizedBanksValues:
+    - m_AssetGUID: 10be6d170ed280b42bc05df1cc36ef97
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  CurrentPlatformAssets:
+    WwisePlatform: Windows
+    LocalizedBankKeys:
+    - SFX
+    LocalizedBanksValues:
+    - m_AssetGUID: 2aa164bb57b2d73498f77c376abb5ed3
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  loadState: 0
+  currentLanguage: 
+  soundbankId: 0
+  decodeBank: 0
+  saveDecodedBank: 0
+  refCount: 0

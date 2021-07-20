@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3213ed949058a0d47826c5f3bd819e6d, type: 3}
+  m_Name: FitnessRun
+  m_EditorClassIdentifier: 
+  m_dataPerPlatformList:
+  - WwisePlatform: Mac
+    LocalizedBankKeys:
+    - SoundSeed Grain
+    - English(US)
+    LocalizedBanksValues:
+    - m_AssetGUID: 711988a5baf9ed24b85eae8e5f0e6f13
+      m_SubObjectName: 
+      m_SubObjectType: 
+    - m_AssetGUID: b03e2cdf87ee6f747aac1d3e629457a1
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys:
+    - SFX
+    LocalizedStreamingMediaValues:
+      localizedMediaList:
+      - media:
+        - m_AssetGUID: 5fe7563654d81664598afd386bf262ad
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 108256427
+        - m_AssetGUID: 230bc2d738309fe4f8a03401d40390f9
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 1043970728
+        - m_AssetGUID: 5fe7563654d81664598afd386bf262ad
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 108256427
+        - m_AssetGUID: 230bc2d738309fe4f8a03401d40390f9
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 1043970728
+  - WwisePlatform: Android
+    LocalizedBankKeys:
+    - English(US)
+    - SoundSeed Grain
+    LocalizedBanksValues:
+    - m_AssetGUID: 828321506f7016640b00f8faad4d8ffb
+      m_SubObjectName: 
+      m_SubObjectType: 
+    - m_AssetGUID: 09753a0c5c8cbe146b0d2271dcc1629a
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys:
+    - SFX
+    LocalizedStreamingMediaValues:
+      localizedMediaList:
+      - media:
+        - m_AssetGUID: cac455240e98e2d4c9400aaf9130b6e9
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 108256427
+        - m_AssetGUID: da4923972915f704e96c061077cc71dd
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 1043970728
+        - m_AssetGUID: cac455240e98e2d4c9400aaf9130b6e9
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 108256427
+        - m_AssetGUID: da4923972915f704e96c061077cc71dd
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 1043970728
+  - WwisePlatform: iOS
+    LocalizedBankKeys:
+    - English(US)
+    - SoundSeed Grain
+    LocalizedBanksValues:
+    - m_AssetGUID: cb02835bc77abf948935997c9484aa11
+      m_SubObjectName: 
+      m_SubObjectType: 
+    - m_AssetGUID: 2665c14c0a87ac3478e8ef42898aebea
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys:
+    - SFX
+    LocalizedStreamingMediaValues:
+      localizedMediaList:
+      - media:
+        - m_AssetGUID: f417b4b6df48c6d4bb2cb5b45acb6d1b
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 108256427
+        - m_AssetGUID: 61a8cc48c095942498fbcb137eed50bd
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 1043970728
+        - m_AssetGUID: f417b4b6df48c6d4bb2cb5b45acb6d1b
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 108256427
+        - m_AssetGUID: 61a8cc48c095942498fbcb137eed50bd
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 1043970728
+  - WwisePlatform: Windows
+    LocalizedBankKeys:
+    - English(US)
+    - SoundSeed Grain
+    LocalizedBanksValues:
+    - m_AssetGUID: 9a2e941ec6739fd47a8947ff5e7084b7
+      m_SubObjectName: 
+      m_SubObjectType: 
+    - m_AssetGUID: 6fbd3cc8fe29b8748aa3a109f5f39dfe
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys:
+    - SFX
+    LocalizedStreamingMediaValues:
+      localizedMediaList:
+      - media:
+        - m_AssetGUID: 08992d38b7b6bab428d7c8aa0da1f33d
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 108256427
+        - m_AssetGUID: a66bf6338f124ae4a9b870379d2ea711
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 1043970728
+        - m_AssetGUID: 08992d38b7b6bab428d7c8aa0da1f33d
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 108256427
+        - m_AssetGUID: a66bf6338f124ae4a9b870379d2ea711
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 1043970728
+  CurrentPlatformAssets:
+    WwisePlatform: Windows
+    LocalizedBankKeys:
+    - English(US)
+    - SoundSeed Grain
+    LocalizedBanksValues:
+    - m_AssetGUID: 9a2e941ec6739fd47a8947ff5e7084b7
+      m_SubObjectName: 
+      m_SubObjectType: 
+    - m_AssetGUID: 6fbd3cc8fe29b8748aa3a109f5f39dfe
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys:
+    - SFX
+    LocalizedStreamingMediaValues:
+      localizedMediaList:
+      - media:
+        - m_AssetGUID: 08992d38b7b6bab428d7c8aa0da1f33d
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 108256427
+        - m_AssetGUID: a66bf6338f124ae4a9b870379d2ea711
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 1043970728
+        - m_AssetGUID: 08992d38b7b6bab428d7c8aa0da1f33d
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 108256427
+        - m_AssetGUID: a66bf6338f124ae4a9b870379d2ea711
+          m_SubObjectName: 
+          m_SubObjectType: 
+          id: 1043970728
+  loadState: 0
+  currentLanguage: 
+  soundbankId: 0
+  decodeBank: 0
+  saveDecodedBank: 0
+  refCount: 0

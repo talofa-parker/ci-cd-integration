@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4105595511	Stop_TitleMusic			\Music Work Unit\Music Events\Stop_TitleMusic	
+	4290088785	Play_TitleMusic			\Music Work Unit\Music Events\Play_TitleMusic	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	41128004	R2MH_Title_130bpm_4-4_Drums_8m1i1o	C:\Users\Sam\Repos\abra\abra-wwise\.cache\iOS\SFX\R2MH_Title_130bpm_4-4_Drums_8m1i1o_B829FB0E.wem		\Interactive Music Hierarchy\Default Work Unit\Title Music\Title Music Welcome to Myheart\Segment A\R2MH_Title_130bpm_4-4_Drums_8m1i1o		259395
+	291739606	R2MH_Title_130bpm_4-4_SawChords_8m1i1o	C:\Users\Sam\Repos\abra\abra-wwise\.cache\iOS\SFX\R2MH_Title_130bpm_4-4_SawChords_8m1i1o_B829FB0E.wem		\Interactive Music Hierarchy\Default Work Unit\Title Music\Title Music Welcome to Myheart\Segment A\R2MH_Title_130bpm_4-4_SawChords_8m1i1o		302877
+	783741136	R2MH_Title_130bpm_4-4_CellosChords_8m1i1o	C:\Users\Sam\Repos\abra\abra-wwise\.cache\iOS\SFX\R2MH_Title_130bpm_4-4_CellosChords_8m1i1o_B829FB0E.wem		\Interactive Music Hierarchy\Default Work Unit\Title Music\Title Music Welcome to Myheart\Segment A\R2MH_Title_130bpm_4-4_CellosChords_8m1i1o		220114
+	1004659449	R2MH_Title_130bpm_4-4_SerumArp_8m1i1o	C:\Users\Sam\Repos\abra\abra-wwise\.cache\iOS\SFX\R2MH_Title_130bpm_4-4_SerumArp_8m1i1o_B829FB0E.wem		\Interactive Music Hierarchy\Default Work Unit\Title Music\Title Music Welcome to Myheart\Segment B\R2MH_Title_130bpm_4-4_SerumArp_8m1i1o		320477
+	1059983219	R2MH_Title_130bpm_4-4_SquareAndViolinsMelody_8m1i1o	C:\Users\Sam\Repos\abra\abra-wwise\.cache\iOS\SFX\R2MH_Title_130bpm_4-4_SquareAndViolinsMelody_8m1i1o_B829FB0E.wem		\Interactive Music Hierarchy\Default Work Unit\Title Music\Title Music Welcome to Myheart\Segment A\R2MH_Title_130bpm_4-4_SquareAndViolinsMelody_8m1i1o		310453
+

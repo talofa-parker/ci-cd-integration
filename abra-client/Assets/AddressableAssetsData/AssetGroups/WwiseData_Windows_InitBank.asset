@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: WwiseData_Windows_InitBank
+  m_EditorClassIdentifier: 
+  m_GroupName: WwiseData_Windows_InitBank
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0fe475c4ffed99743bfd9babc97237bb
+  m_SerializeEntries:
+  - m_GUID: 53dfa9b46dbfd3e439c2df2c926891da
+    m_Address: Assets/Audio/Windows/Init.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4edec13f269373548b5fa04fb4a6edb1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ef41da65a75d2fe41ac57043230346c6, type: 2}
+    - {fileID: 11400000, guid: bfa9c4ddf94cf5a4a94c8665ab51a256, type: 2}

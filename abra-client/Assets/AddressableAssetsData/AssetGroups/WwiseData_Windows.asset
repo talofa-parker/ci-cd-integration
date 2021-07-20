@@ -1,0 +1,841 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: WwiseData_Windows
+  m_EditorClassIdentifier: 
+  m_GroupName: WwiseData_Windows
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5be185df261a9b448bf9e58d5d045caa
+  m_SerializeEntries:
+  - m_GUID: 5402b67a9cc126b41bc40f12a1ab649e
+    m_Address: Assets/Audio/Windows/SoundSeed Grain/GroupRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f26582ce2a8ff374ea9416500be876fb
+    m_Address: Assets/Audio/Windows/Task_Interval.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7e88f33003f55394bb995da65474a928
+    m_Address: Assets/Audio/Windows/SoundSeed Grain/FreeRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 52eff5e202d10784f939ded4adc1b887
+    m_Address: Assets/Audio/Windows/ChallengeRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 75045b5673b0554488c400fcb33f9187
+    m_Address: Assets/Audio/Windows/Natural_Disasters.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2aa164bb57b2d73498f77c376abb5ed3
+    m_Address: Assets/Audio/Windows/Main.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3ea3e41e3b0e6ea45b073ec9e5b1b45f
+    m_Address: Assets/Audio/Windows/Superfan.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6d9ce30e40331bd46bc54e1b5ed097fa
+    m_Address: Assets/Audio/Windows/TR_Mission_Mixie_1.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a43b0f5cc0ebbf247b98646f3a19c461
+    m_Address: Assets/Audio/Windows/Task_Distance.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: aa570409ad1b4a149a497a13615068cf
+    m_Address: Assets/Audio/Windows/Instructional_SFX.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0122055a6bbc15e47ae03a1143939e6b
+    m_Address: Assets/Audio/Windows/Likelike.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: de1f8f33b192499408fa2a04bae6b9a4
+    m_Address: Assets/Audio/Windows/English(US)/GroupRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c351148b329ba2c4aa900c7c3fdf3dc6
+    m_Address: Assets/Audio/Windows/Task_Sprint.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9a2e941ec6739fd47a8947ff5e7084b7
+    m_Address: Assets/Audio/Windows/English(US)/FitnessRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 166dfc7be16bd6044b5d7c8eb63a83f8
+    m_Address: Assets/Audio/Windows/RandomEncounter.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a091918032d319b41826ca67f5cebb58
+    m_Address: Assets/Audio/Windows/Jenny.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6fbd3cc8fe29b8748aa3a109f5f39dfe
+    m_Address: Assets/Audio/Windows/SoundSeed Grain/FitnessRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1a2476f9c5d470647829740ba5bc86b9
+    m_Address: Assets/Audio/Windows/English(US)/FreeRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0239d5d2dfcdf2b44af2d4574a65731a
+    m_Address: Assets/Audio/Windows/AllRuns.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6bdd307cc7d07a943966ff5138e62c99
+    m_Address: Assets/Audio/Windows/TR_Wrapper.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8852955ea23024044a7e93a2fe5e888a
+    m_Address: Assets/Audio/Windows/Drew.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8e5aed73b9aead14a83c0192847acd08
+    m_Address: Assets/Audio/Windows/84155383.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f34a0fd7852258d44aab15a43ebb8583
+    m_Address: Assets/Audio/Windows/946372768.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a511e704d74b13a45b492abcd591dc3e
+    m_Address: Assets/Audio/Windows/96715188.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e5dd343f97093fd43ab1855b3416160f
+    m_Address: Assets/Audio/Windows/789264121.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0f2e5fbc2da572847b5367d67659e365
+    m_Address: Assets/Audio/Windows/133731376.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bdbe6b7922bd63e4fb2e86e74ddc576b
+    m_Address: Assets/Audio/Windows/701420884.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 52e78715415c6644eb5e35f2247dc50c
+    m_Address: Assets/Audio/Windows/77541312.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1bb77584ac42afb4eb82a385db1d58b9
+    m_Address: Assets/Audio/Windows/1051357547.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dfed8f680d005974785737635280c72f
+    m_Address: Assets/Audio/Windows/675182825.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 11f0eb7bc3ee84f4f93acc3d3641479f
+    m_Address: Assets/Audio/Windows/1045342416.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2ce9b179804b6bc43852e1bbe63606f3
+    m_Address: Assets/Audio/Windows/468087402.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 526ca733c62eb0141928a86cc8b94052
+    m_Address: Assets/Audio/Windows/283452639.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 71e750ebf8789324abc1e6058da5a7ce
+    m_Address: Assets/Audio/Windows/577242848.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 173fd45549233984387883c6a074c7b0
+    m_Address: Assets/Audio/Windows/355740374.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dde118c230eb7114e822cee85d7fba86
+    m_Address: Assets/Audio/Windows/299721235.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e6f51aca8629cf245baf5ffb4c62feb0
+    m_Address: Assets/Audio/Windows/400730207.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 58e22b1776fa16945bced495b666e738
+    m_Address: Assets/Audio/Windows/7561604.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1b951c43f824db449a5b5f1599a4a00d
+    m_Address: Assets/Audio/Windows/269294630.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 530290443e43aac40a9c608e71635b5f
+    m_Address: Assets/Audio/Windows/32812652.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fe7f09ee5d9c03a4daa27e158870ff44
+    m_Address: Assets/Audio/Windows/104647876.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3f1cdef0c9002294cabff7e5cad26f4b
+    m_Address: Assets/Audio/Windows/714235842.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 041f4396c712148489ed74a9cf947531
+    m_Address: Assets/Audio/Windows/67768984.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e31d7d1f936b2d64b8073fe37aeddc6f
+    m_Address: Assets/Audio/Windows/1006245528.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f078b81e3d6df934d8de4599d1b60344
+    m_Address: Assets/Audio/Windows/383672927.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a90f26a88a6076c488f711e216be4a82
+    m_Address: Assets/Audio/Windows/734459939.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c2bdf19163e88a2449371ad1355e02b8
+    m_Address: Assets/Audio/Windows/364501355.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ce02f1601bc669344ba64f85b20056b5
+    m_Address: Assets/Audio/Windows/9956375.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bce93e4601e20f242b722354fcad91ec
+    m_Address: Assets/Audio/Windows/24763145.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 040749477ec513e4ba87b2973e6c7a0e
+    m_Address: Assets/Audio/Windows/1033486572.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7aec9384b3677ed439b4a22552f6ce2e
+    m_Address: Assets/Audio/Windows/941611379.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cac0e9fb923f78d438eb6eab5bae55d3
+    m_Address: Assets/Audio/Windows/25038968.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b52d003504460344b89bdd45139a5ed2
+    m_Address: Assets/Audio/Windows/695296563.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f7eb0b474a512074bbe2b72d09b8f1dd
+    m_Address: Assets/Audio/Windows/12290721.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 80aa4e354e2ce144e979111f2a2f3a28
+    m_Address: Assets/Audio/Windows/650113553.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 213d23f4c8e14b14eb8a82c8bbf1fd5b
+    m_Address: Assets/Audio/Windows/1019514299.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3bee6dd07f904dd43a85fc8ec303d9a9
+    m_Address: Assets/Audio/Windows/84914398.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 08992d38b7b6bab428d7c8aa0da1f33d
+    m_Address: Assets/Audio/Windows/108256427.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 50018da1d0172fa4d9a088200d2038e6
+    m_Address: Assets/Audio/Windows/200629308.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5773bffae724e394f9949e1316a4e245
+    m_Address: Assets/Audio/Windows/800353835.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ddc51268c8d5df64995e2b32e2d02ca6
+    m_Address: Assets/Audio/Windows/301252492.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: baf55a0da9d1c9b4aa97ce52626ac065
+    m_Address: Assets/Audio/Windows/950362493.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1314bb2e440aed140a9e209dfdfe8830
+    m_Address: Assets/Audio/Windows/984817505.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9503eba8e96cd124caf5d26e92ded6f7
+    m_Address: Assets/Audio/Windows/417079733.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7cb083297f977b04bb69d113f3f60cbe
+    m_Address: Assets/Audio/Windows/734612085.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: de3b0ecaaa74b3d4195bab35accb2ab7
+    m_Address: Assets/Audio/Windows/132800391.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 47dbf2169f27827419a6590cb98d0c7f
+    m_Address: Assets/Audio/Windows/665182172.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2c7b5814b62ed714b932b03cfe116d57
+    m_Address: Assets/Audio/Windows/180990836.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 547437b0d3a12684f9483f127aa80f56
+    m_Address: Assets/Audio/Windows/351119334.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f0c44eb648d7ef14ca0e93b6ff28d886
+    m_Address: Assets/Audio/Windows/28039296.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 477be63c9ebb8f6418149b79570e50d0
+    m_Address: Assets/Audio/Windows/521598329.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 13c5b46d18a8a824cb7e1c06bf29cb26
+    m_Address: Assets/Audio/Windows/753565789.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0e0336cc5bc9919419e3afd3cd22d1e0
+    m_Address: Assets/Audio/Windows/875538485.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 821df7ad476b2754a92358e9eb72d2de
+    m_Address: Assets/Audio/Windows/871712705.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4e47d21cece006e4a841135b48d36a16
+    m_Address: Assets/Audio/Windows/446933271.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4f0271be4ebf50b4ba80f7aaaeb94f00
+    m_Address: Assets/Audio/Windows/435099684.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8e681cbd379501840bd490275f7ee255
+    m_Address: Assets/Audio/Windows/436576237.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3ecc82192fedaac4d91e9f794dd4be8a
+    m_Address: Assets/Audio/Windows/349452648.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f6629816559a78945bf521447ea30edc
+    m_Address: Assets/Audio/Windows/119098151.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a2e43443a9203f64aaa382a0afcd31ab
+    m_Address: Assets/Audio/Windows/268797566.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: eebcf8a12adcf244db7dd95316717792
+    m_Address: Assets/Audio/Windows/186115493.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4d30bf97e092ce345a5ca143f1c09f07
+    m_Address: Assets/Audio/Windows/319411367.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fa5b36ea20539af4a84d7b63d278b2a4
+    m_Address: Assets/Audio/Windows/522537838.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3914de44cb1210a4ebd673c4e8b29f66
+    m_Address: Assets/Audio/Windows/574837204.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e39b3ab408929b34188d5e823cbf1569
+    m_Address: Assets/Audio/Windows/647157113.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 922359de2ac7ff04eb354c39525a8525
+    m_Address: Assets/Audio/Windows/579081023.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3a71460159cb5a74baacb0c3338b7f31
+    m_Address: Assets/Audio/Windows/1025835753.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 40fa14b8b0b44f94da243375b380b68e
+    m_Address: Assets/Audio/Windows/631965681.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7dc5229d0ec4ea44a895c54fd14b69ce
+    m_Address: Assets/Audio/Windows/987608139.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6e5daa0fd88e0eb4bb8c9e6bc32a54ba
+    m_Address: Assets/Audio/Windows/558954972.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ea315f7064cc7ce4e8fc729c131f13bf
+    m_Address: Assets/Audio/Windows/143561339.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a6f44b34eeb325d47af9aebd34cf093a
+    m_Address: Assets/Audio/Windows/903216126.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d5e3d5b5dc75f3f458204c05dac88dcf
+    m_Address: Assets/Audio/Windows/185683999.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cac7a00fa98b148498b0105d72af78f0
+    m_Address: Assets/Audio/Windows/404903543.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e6ed1a5adcd64fd4b97f76a46b8b26e8
+    m_Address: Assets/Audio/Windows/654134600.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a66bf6338f124ae4a9b870379d2ea711
+    m_Address: Assets/Audio/Windows/1043970728.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f2e6020b8c8d4944b9fc1e338ca11822
+    m_Address: Assets/Audio/Windows/576828555.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 098753855d3fe6a479f8bad45de2dec7
+    m_Address: Assets/Audio/Windows/263015336.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3fc4c42ebbf94c840a60eba6a665331e
+    m_Address: Assets/Audio/Windows/624229358.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7be05b5f9088cdc48a74ffb145c7bdf6
+    m_Address: Assets/Audio/Windows/137791018.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8c938cef26831d04ea07bec37b1a031a
+    m_Address: Assets/Audio/Windows/303315600.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b42046f12bd7246449362834dd29dfb8
+    m_Address: Assets/Audio/Windows/1069297310.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a8f3a43ea627ef04e9a3155b4e8d6967
+    m_Address: Assets/Audio/Windows/551861745.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c45a43f1e8535bc469325cf8dafc25b6
+    m_Address: Assets/Audio/Windows/384444034.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6cf60b2fd20a8d7439ab58342f5f59d1
+    m_Address: Assets/Audio/Windows/354710292.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9c3bc55bc965eac4d969db8c9248fa31
+    m_Address: Assets/Audio/Windows/1024334693.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 311ffd3d033208b4183528fc56e73135
+    m_Address: Assets/Audio/Windows/545524914.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0f37d25c95cb04f4ba1d997bbb409407
+    m_Address: Assets/Audio/Windows/565456580.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 25d938dc5046a654f97be5061eee70b0
+    m_Address: Assets/Audio/Windows/1069312979.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e31f9671d1a90714f979ba02e61939a1
+    m_Address: Assets/Audio/Windows/583774400.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0b2f79c9b85fd3c4cb5c24dde714d462
+    m_Address: Assets/Audio/Windows/548115574.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3f04cc4545677754bb5037dffa47f74b
+    m_Address: Assets/Audio/Windows/639141826.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c265a7c20ffcc4240a12534b711d4077
+    m_Address: Assets/Audio/Windows/446347671.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cc62212b5ac30fe438e3dc67c044626f
+    m_Address: Assets/Audio/Windows/91527115.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: df537d7ea8c6a0b4286ee603c87e8459
+    m_Address: Assets/Audio/Windows/552361213.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 254b34fe1d5d75f499b045fc11b42bdd
+    m_Address: Assets/Audio/Windows/744666644.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8b478296748a6e04fa147ca62d4fd75f
+    m_Address: Assets/Audio/Windows/1051437578.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2df53bb11cb6bf343a676ee2901bec08
+    m_Address: Assets/Audio/Windows/191285438.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b00d4188465db8d4a88d1070402a6047
+    m_Address: Assets/Audio/Windows/651193748.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 869a2f54bc3c18941bcb9286dcbc5c59
+    m_Address: Assets/Audio/Windows/309864104.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b6a9c699af579924381dc7abe50e6cae
+    m_Address: Assets/Audio/Windows/90445871.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6dbabfe545508f1499837632e95a70c1
+    m_Address: Assets/Audio/Windows/858271978.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f29e71324b236b941b5bb25b648b6eb5
+    m_Address: Assets/Audio/Windows/398032529.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 83e29ecde0ae1ac47a6cc895605ac39d
+    m_Address: Assets/Audio/Windows/708427921.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ba89bfdcbe7d5a14ba3f157f59fcb108
+    m_Address: Assets/Audio/Windows/313875878.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cd1d0d7f1b780df45ba2eafb77405422
+    m_Address: Assets/Audio/Windows/22148136.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 24be4ab5f7151ab43964c74cc4d94a3c
+    m_Address: Assets/Audio/Windows/507804882.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bb32cc6e7b0ed984db01089e0f7fcad0
+    m_Address: Assets/Audio/Windows/1045600105.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 98e1530c3a3605240b3722ff7bb83a55
+    m_Address: Assets/Audio/Windows/195629990.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bbd7160ea4b2ad340a0e77e7e84042ab
+    m_Address: Assets/Audio/Windows/648192654.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 51436a68566eba54fb65a334d29b1e30
+    m_Address: Assets/Audio/Windows/452641941.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 98c9498956455d74baac05f40dc45cb0
+    m_Address: Assets/Audio/Windows/614159381.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6718aaf1db127214b8de75f07a84369b
+    m_Address: Assets/Audio/Windows/478109607.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b308a472aa2c5ff46818e748a48720a5
+    m_Address: Assets/Audio/Windows/47366670.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dcf3ecb8b76f6fb42ba7f75c69ec31d0
+    m_Address: Assets/Audio/Windows/711545860.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6b3bff8ec6d4d9049a57daf27d4e39f6
+    m_Address: Assets/Audio/Windows/834644087.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4edec13f269373548b5fa04fb4a6edb1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 21352ace6d79cbe4d80fdf4cff0ce294, type: 2}
+    - {fileID: 11400000, guid: 158ae9de955c8e54a8e26ac0647ee23b, type: 2}

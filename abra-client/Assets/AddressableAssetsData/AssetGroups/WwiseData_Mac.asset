@@ -1,0 +1,841 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: WwiseData_Mac
+  m_EditorClassIdentifier: 
+  m_GroupName: WwiseData_Mac
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 791c437607fe8784bbd62449aa991802
+  m_SerializeEntries:
+  - m_GUID: 334b947fb54a6c046bbad8b38f3aad87
+    m_Address: Assets/Audio/Mac/Natural_Disasters.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 711988a5baf9ed24b85eae8e5f0e6f13
+    m_Address: Assets/Audio/Mac/SoundSeed Grain/FitnessRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 90df2b3f705fe7943a8bff9aef1c595f
+    m_Address: Assets/Audio/Mac/TR_Mission_Mixie_1.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e3e8459bd04d6a9448f76656db1832a7
+    m_Address: Assets/Audio/Mac/Task_Sprint.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d41bf7d081ffcbe47b0684fcf6dcf26e
+    m_Address: Assets/Audio/Mac/TR_Wrapper.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6f36a52bd74b0b240bfcda027c5e585d
+    m_Address: Assets/Audio/Mac/Drew.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 515afab2b818f6541be30e39179b8043
+    m_Address: Assets/Audio/Mac/ChallengeRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a5cb8aad7fe753c42a8123bd427b60cd
+    m_Address: Assets/Audio/Mac/SoundSeed Grain/FreeRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8a284d59d4cd91d4cbd5eed2e9ec33c5
+    m_Address: Assets/Audio/Mac/Task_Distance.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 321a228bb9a47704dbb786d7ed28e2ba
+    m_Address: Assets/Audio/Mac/Superfan.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d610ee225636a5a4aba34e09f871fcfe
+    m_Address: Assets/Audio/Mac/Main.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 890c30014955d5649b677e1686b1e569
+    m_Address: Assets/Audio/Mac/English(US)/GroupRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 437a4dd84d4195f4faade8395ca0dd39
+    m_Address: Assets/Audio/Mac/Task_Interval.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b03e2cdf87ee6f747aac1d3e629457a1
+    m_Address: Assets/Audio/Mac/English(US)/FitnessRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1c373467a1bf6ec428556be663f305d2
+    m_Address: Assets/Audio/Mac/Instructional_SFX.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a529399ded9140f4c97a98e91905a5e9
+    m_Address: Assets/Audio/Mac/English(US)/FreeRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7107b6fdd638ef94e9ee50edf9f8f933
+    m_Address: Assets/Audio/Mac/Likelike.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1c4ce46916bbdd147afdb51ffbfda9e4
+    m_Address: Assets/Audio/Mac/Jenny.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4aff9bbb36a46b9479ec205dd7342a13
+    m_Address: Assets/Audio/Mac/SoundSeed Grain/GroupRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8242eb5d45a5e5a48b568aee356caf63
+    m_Address: Assets/Audio/Mac/RandomEncounter.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 609368a8176a3e24f8f6425b8a75fb0e
+    m_Address: Assets/Audio/Mac/AllRuns.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 91d70d5e5cf8b234dad373bd24042699
+    m_Address: Assets/Audio/Mac/577242848.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c26c3af9d2a78cf43a5206a386977da0
+    m_Address: Assets/Audio/Mac/708427921.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 733025ff438e1a448a2945876500ad5d
+    m_Address: Assets/Audio/Mac/946372768.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5c81ebd5782c7104990df05e3ca8f4d4
+    m_Address: Assets/Audio/Mac/263015336.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e5bbf02dc659a454aa44034e3331a143
+    m_Address: Assets/Audio/Mac/143561339.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bb565634a15f8954099d339e96884c78
+    m_Address: Assets/Audio/Mac/268797566.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5dc97ad857b2e6c4d83263e768e2b3e7
+    m_Address: Assets/Audio/Mac/639141826.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 372ebc42f8288554f8392886598fe31f
+    m_Address: Assets/Audio/Mac/384444034.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b76208113d9d2d74da6104e6ebcb00d0
+    m_Address: Assets/Audio/Mac/1033486572.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e65f97764758f4544b482946f674dafc
+    m_Address: Assets/Audio/Mac/133731376.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: da9043eceb66d2246b421134c1e6692f
+    m_Address: Assets/Audio/Mac/984817505.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 09d15a5d861bfa246a1f0687c7ad8c86
+    m_Address: Assets/Audio/Mac/351119334.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8fd2af16368aa7242beab02faddd37e4
+    m_Address: Assets/Audio/Mac/67768984.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2bece7fae2383ce41a6cfff3511e4e0f
+    m_Address: Assets/Audio/Mac/28039296.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7b646d06c09392946981a3c1356976c8
+    m_Address: Assets/Audio/Mac/753565789.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2299c6487366b9848894295447c6f77b
+    m_Address: Assets/Audio/Mac/299721235.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3f3f7c0e6752dcf40a3bb32d4dc9b94c
+    m_Address: Assets/Audio/Mac/552361213.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8b315053ed56f8540ad6220cb72d9b8f
+    m_Address: Assets/Audio/Mac/614159381.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f3f2733c7bed08c4c8d0326ce364b96b
+    m_Address: Assets/Audio/Mac/446347671.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1f69d61a471056b43be709029e7cc56a
+    m_Address: Assets/Audio/Mac/1069297310.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 47ba72dc3e7704742b30bf371e1dacbb
+    m_Address: Assets/Audio/Mac/545524914.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 056e294815f677c498069d67246d3028
+    m_Address: Assets/Audio/Mac/583774400.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 741b0db836c644149ae8d85de3716452
+    m_Address: Assets/Audio/Mac/576828555.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 26a78e1d136865441bd4e26513d5f742
+    m_Address: Assets/Audio/Mac/354710292.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6e79eb6f1892cb34ca5daae49ca52136
+    m_Address: Assets/Audio/Mac/871712705.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 020e450d17ac1d4478f491ed68f85584
+    m_Address: Assets/Audio/Mac/84155383.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c21fa6a23bf88574f8ead8e2186463a9
+    m_Address: Assets/Audio/Mac/701420884.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bc29ec9428dfe4a4fa06975aeb4abe57
+    m_Address: Assets/Audio/Mac/25038968.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 43bac32b135d12e47928f9f3fee08f42
+    m_Address: Assets/Audio/Mac/186115493.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1e0018d3c86da0745875a091aa5e2a61
+    m_Address: Assets/Audio/Mac/446933271.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d3673653dfdbf6848838ffde472e7cb9
+    m_Address: Assets/Audio/Mac/7561604.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4237efbaada801b45af3307e5b1b7ec2
+    m_Address: Assets/Audio/Mac/468087402.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5a4c8b7d5cf23a94d9ae1e66123e6885
+    m_Address: Assets/Audio/Mac/119098151.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 491c10789ab33a840889ad477fab2510
+    m_Address: Assets/Audio/Mac/1045600105.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2999c4b998b6fad4fbe70de123768714
+    m_Address: Assets/Audio/Mac/200629308.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9d10927a42be45b48aa3dd70700b3b5d
+    m_Address: Assets/Audio/Mac/269294630.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fc98443b103b784448afb1d5512daf25
+    m_Address: Assets/Audio/Mac/137791018.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 758c59f6ccf5d9b42833ba96449d9dcc
+    m_Address: Assets/Audio/Mac/400730207.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 213a2478b87e95b43824fa585675d25a
+    m_Address: Assets/Audio/Mac/624229358.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a3bd32bde4fd9a24ca137ebb5481d0ae
+    m_Address: Assets/Audio/Mac/631965681.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 910aac5c8efabc24f805c6127058d4b5
+    m_Address: Assets/Audio/Mac/398032529.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3315bad4a9d3db841b6e70c2cd6f83b3
+    m_Address: Assets/Audio/Mac/104647876.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 69b0e560823870a4f9208b7d9991cfb5
+    m_Address: Assets/Audio/Mac/185683999.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ba5fc124a4be4ed4fb9f69b1dfdf6e2f
+    m_Address: Assets/Audio/Mac/558954972.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d8278d115cdccb541810b8f7417b1492
+    m_Address: Assets/Audio/Mac/522537838.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3181eb75835c2e4449dac1ba0b1366fd
+    m_Address: Assets/Audio/Mac/1006245528.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ff88ec344a605ed4cbb3c24a024478f5
+    m_Address: Assets/Audio/Mac/1019514299.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9f7ed9a5b4cb4f745a8f0a9114d4981c
+    m_Address: Assets/Audio/Mac/789264121.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6f1b85ad7cb3a004a82f5e1970c2f18c
+    m_Address: Assets/Audio/Mac/319411367.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 60d7f74238d979c478a748b733c36ef2
+    m_Address: Assets/Audio/Mac/1025835753.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4411cf438510cea4babe51f96d5707a6
+    m_Address: Assets/Audio/Mac/32812652.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 54fb4c40a13f5e047a3bb1d040c2ee0c
+    m_Address: Assets/Audio/Mac/548115574.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2e8323302359e5e46b7f856448744202
+    m_Address: Assets/Audio/Mac/1051357547.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f68952ed4cb68ef459dd7db76447953a
+    m_Address: Assets/Audio/Mac/96715188.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4678128a5c62bc24589bdc27655475fd
+    m_Address: Assets/Audio/Mac/1051437578.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7de591d2c5201804092291c488c49a0a
+    m_Address: Assets/Audio/Mac/521598329.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2acae88aa952af947b9f85ec8745e3e6
+    m_Address: Assets/Audio/Mac/195629990.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 17c8d93fca9159745a2f30109825b0bd
+    m_Address: Assets/Audio/Mac/711545860.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d14cc8b98d9c56544b3f347a0a0e8f7d
+    m_Address: Assets/Audio/Mac/138366377.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6e765fee0efec3e48a1c2ad157780777
+    m_Address: Assets/Audio/Mac/1024334693.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cdff1f6b3fd3ece46ad58797ffef3212
+    m_Address: Assets/Audio/Mac/834644087.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 932b0eb99df87f0448f6faa691e1e944
+    m_Address: Assets/Audio/Mac/574837204.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c8adebcc0b7d9c14e90c4416b38f5b0c
+    m_Address: Assets/Audio/Mac/734612085.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0b27bb8bf2755f74e981b261101396d8
+    m_Address: Assets/Audio/Mac/309864104.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 01c5c20864c043041be4434286ad0c4d
+    m_Address: Assets/Audio/Mac/950362493.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3b392d3b5ea72564cace624d83e43b73
+    m_Address: Assets/Audio/Mac/191285438.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e01c998d04bb17a4b8514d52f0b939b1
+    m_Address: Assets/Audio/Mac/987608139.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 071c9c386fd2788438a65ed54224479c
+    m_Address: Assets/Audio/Mac/800353835.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a0cd5b55be92eec49b4c7c3b4e17f21b
+    m_Address: Assets/Audio/Mac/90445871.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1c517cb23c93a8b45bfe5f0bc2560e45
+    m_Address: Assets/Audio/Mac/734459939.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9374e1e3731f1484a9f003dac3daed2d
+    m_Address: Assets/Audio/Mac/24763145.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3225c8749f5428e42a753f27c50d6338
+    m_Address: Assets/Audio/Mac/507804882.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: edcf7d6a3b4ea1941b4e86ca22a89830
+    m_Address: Assets/Audio/Mac/903216126.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dd1a28117dfbe2642b52628015717158
+    m_Address: Assets/Audio/Mac/647157113.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d8763d0579790924fb3173660301978d
+    m_Address: Assets/Audio/Mac/654134600.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 65de9d87bd5c3ef4388bb8d7db65877c
+    m_Address: Assets/Audio/Mac/9956375.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 392779ff7a762604ebdc76fe72dc2058
+    m_Address: Assets/Audio/Mac/875538485.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ba4be128eeec78f45b9335126339ac21
+    m_Address: Assets/Audio/Mac/349452648.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2bf0a7adaf8478f42b6f98bd694e0f78
+    m_Address: Assets/Audio/Mac/22148136.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1e41be39818f60147823eca5cbf42bf6
+    m_Address: Assets/Audio/Mac/383672927.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d89ed29b02b7ebf49a79bb323a4de4a7
+    m_Address: Assets/Audio/Mac/675182825.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 08ef17f79822f4d468cb9caf56c02f96
+    m_Address: Assets/Audio/Mac/452641941.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6669bff6b473d6a4395fa5e85e87adde
+    m_Address: Assets/Audio/Mac/858271978.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b19e3385ac596214aa61940ab668af30
+    m_Address: Assets/Audio/Mac/1069312979.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1fca31ee58dbfa149be2b2516a7859a3
+    m_Address: Assets/Audio/Mac/180990836.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a04f836d6d78c7d498e94b9789dc13f0
+    m_Address: Assets/Audio/Mac/650113553.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 230bc2d738309fe4f8a03401d40390f9
+    m_Address: Assets/Audio/Mac/1043970728.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4a9aac2c9e4ad4040b0bd5cf8d79cfec
+    m_Address: Assets/Audio/Mac/47366670.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9b647191ff97a8d40958c9eb01c2bd97
+    m_Address: Assets/Audio/Mac/404903543.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0e7f85ed6761d4546a4b4a6996064be0
+    m_Address: Assets/Audio/Mac/301252492.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9aeea4cc9852f8f468621bc104790724
+    m_Address: Assets/Audio/Mac/941611379.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 07ea3bf8198452141ae94fad596bf6e6
+    m_Address: Assets/Audio/Mac/551861745.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9c12610e9bf034b4daa4b5ca0a0be926
+    m_Address: Assets/Audio/Mac/1045342416.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 267bfebb581e5024c9e9e56ac4546bad
+    m_Address: Assets/Audio/Mac/313875878.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f3183c1c1bb3e134da6f667861f21e48
+    m_Address: Assets/Audio/Mac/565456580.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cc418b58cf5aa5e47872c081c3ded0b2
+    m_Address: Assets/Audio/Mac/283452639.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5fe7563654d81664598afd386bf262ad
+    m_Address: Assets/Audio/Mac/108256427.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 44d24cad9795d484096334d034d00497
+    m_Address: Assets/Audio/Mac/132800391.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ae91c39c13e74a041b767ed4f47ba3df
+    m_Address: Assets/Audio/Mac/417079733.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bff8ad635c616be479d5c5ef292b18fc
+    m_Address: Assets/Audio/Mac/364501355.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3868210d343b8f2499d86e01f740f5ae
+    m_Address: Assets/Audio/Mac/435099684.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ce6c8e89231f7184f930a718d5eec201
+    m_Address: Assets/Audio/Mac/478109607.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 34f8bb486b4817a4e95d72702055d70f
+    m_Address: Assets/Audio/Mac/695296563.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f8c6449846e6034409ad32c8e0430529
+    m_Address: Assets/Audio/Mac/665182172.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1e4edb7d89d8f404c969e3c1196a82e2
+    m_Address: Assets/Audio/Mac/648192654.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f32cc417e93edde4398cabcf0a5b7be1
+    m_Address: Assets/Audio/Mac/77541312.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: db3b71f0015c12c438d90ba3a3c60cb8
+    m_Address: Assets/Audio/Mac/303315600.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6bd3b386130616c4ba471920ec05df42
+    m_Address: Assets/Audio/Mac/355740374.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6681ccb963944dd45b1ba6d3c29609e3
+    m_Address: Assets/Audio/Mac/579081023.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 017748679dfc0f447a9d98f1b9d29651
+    m_Address: Assets/Audio/Mac/436576237.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a884adc9193dadf47851bd660dc27f59
+    m_Address: Assets/Audio/Mac/91527115.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 198a1c61969c22f4da755bcb125e098b
+    m_Address: Assets/Audio/Mac/12290721.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7f911c451a7145c49a8a20317c24b821
+    m_Address: Assets/Audio/Mac/744666644.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b9c6256fe66631247a11673cf8d533d8
+    m_Address: Assets/Audio/Mac/714235842.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bd2d6f06ea6bb0746bd937629d94b5f7
+    m_Address: Assets/Audio/Mac/651193748.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4edec13f269373548b5fa04fb4a6edb1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ee914c0a2a41a6147b9aeb444566cfe4, type: 2}
+    - {fileID: 11400000, guid: 33f7e297ed2402e458b227cf1fa468ee, type: 2}

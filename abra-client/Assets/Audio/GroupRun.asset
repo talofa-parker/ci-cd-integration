@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3213ed949058a0d47826c5f3bd819e6d, type: 3}
+  m_Name: GroupRun
+  m_EditorClassIdentifier: 
+  m_dataPerPlatformList:
+  - WwisePlatform: Windows
+    LocalizedBankKeys:
+    - SoundSeed Grain
+    - English(US)
+    LocalizedBanksValues:
+    - m_AssetGUID: 5402b67a9cc126b41bc40f12a1ab649e
+      m_SubObjectName: 
+      m_SubObjectType: 
+    - m_AssetGUID: de1f8f33b192499408fa2a04bae6b9a4
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  - WwisePlatform: Mac
+    LocalizedBankKeys:
+    - English(US)
+    - SoundSeed Grain
+    LocalizedBanksValues:
+    - m_AssetGUID: 890c30014955d5649b677e1686b1e569
+      m_SubObjectName: 
+      m_SubObjectType: 
+    - m_AssetGUID: 4aff9bbb36a46b9479ec205dd7342a13
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  - WwisePlatform: iOS
+    LocalizedBankKeys:
+    - English(US)
+    - SoundSeed Grain
+    LocalizedBanksValues:
+    - m_AssetGUID: 7498fb62816c90c44bf41474e3bb233e
+      m_SubObjectName: 
+      m_SubObjectType: 
+    - m_AssetGUID: dfe01e98fd68d934eb240ce99ff27745
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  - WwisePlatform: Android
+    LocalizedBankKeys:
+    - English(US)
+    - SoundSeed Grain
+    LocalizedBanksValues:
+    - m_AssetGUID: dab7b3a8701f53f408363aa75505d876
+      m_SubObjectName: 
+      m_SubObjectType: 
+    - m_AssetGUID: b5e4c568110a61e46abdbfc1d95fd833
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  CurrentPlatformAssets:
+    WwisePlatform: Windows
+    LocalizedBankKeys:
+    - SoundSeed Grain
+    - English(US)
+    LocalizedBanksValues:
+    - m_AssetGUID: 5402b67a9cc126b41bc40f12a1ab649e
+      m_SubObjectName: 
+      m_SubObjectType: 
+    - m_AssetGUID: de1f8f33b192499408fa2a04bae6b9a4
+      m_SubObjectName: 
+      m_SubObjectType: 
+    LocalizedStreamingMediaKeys: []
+    LocalizedStreamingMediaValues:
+      localizedMediaList: []
+  loadState: 0
+  currentLanguage: 
+  soundbankId: 0
+  decodeBank: 0
+  saveDecodedBank: 0
+  refCount: 0

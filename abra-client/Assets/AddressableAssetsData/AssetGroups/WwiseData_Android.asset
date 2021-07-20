@@ -1,0 +1,841 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: WwiseData_Android
+  m_EditorClassIdentifier: 
+  m_GroupName: WwiseData_Android
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b631497f34368c144adfe1f9181ff380
+  m_SerializeEntries:
+  - m_GUID: 0893a64467a947a419fb59771652a3e2
+    m_Address: Assets/Audio/Android/Task_Interval.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4e0f2b44337e2024ab72187790db97a9
+    m_Address: Assets/Audio/Android/Likelike.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 828321506f7016640b00f8faad4d8ffb
+    m_Address: Assets/Audio/Android/English(US)/FitnessRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0ce2551a51d90924e94888d1f1ee6371
+    m_Address: Assets/Audio/Android/SoundSeed Grain/FreeRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 49d38754c76627f4e83984ab382bf4ca
+    m_Address: Assets/Audio/Android/Task_Sprint.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 09753a0c5c8cbe146b0d2271dcc1629a
+    m_Address: Assets/Audio/Android/SoundSeed Grain/FitnessRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 058d6a54b824a764d9ed760e9530c532
+    m_Address: Assets/Audio/Android/Jenny.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f8f8a798ec889584589da7e7fc74b1ee
+    m_Address: Assets/Audio/Android/Natural_Disasters.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 636d0821709b10a45bc7888c8a5def74
+    m_Address: Assets/Audio/Android/ChallengeRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dab7b3a8701f53f408363aa75505d876
+    m_Address: Assets/Audio/Android/English(US)/GroupRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 18549ac4fcc719c42b7c78af39f5964b
+    m_Address: Assets/Audio/Android/English(US)/FreeRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 10be6d170ed280b42bc05df1cc36ef97
+    m_Address: Assets/Audio/Android/Main.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b5e4c568110a61e46abdbfc1d95fd833
+    m_Address: Assets/Audio/Android/SoundSeed Grain/GroupRun.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 95a3403893b82d047a1afb36a52678fc
+    m_Address: Assets/Audio/Android/RandomEncounter.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 228002e673ec1524d82f65503b347b8f
+    m_Address: Assets/Audio/Android/Task_Distance.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d95407899c7d6f94083c17b02aeb23a8
+    m_Address: Assets/Audio/Android/Superfan.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0cc35a054d332c4428bf014d375aae19
+    m_Address: Assets/Audio/Android/TR_Wrapper.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 329bb99d578229b4d89f630572f50f90
+    m_Address: Assets/Audio/Android/TR_Mission_Mixie_1.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bb7278a84e6edbf42b56f6ac40905595
+    m_Address: Assets/Audio/Android/AllRuns.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6e2dbe256a8e4884892edffcbcf2be2b
+    m_Address: Assets/Audio/Android/Drew.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4f9c0aaeba52614498fb7434b788497f
+    m_Address: Assets/Audio/Android/Instructional_SFX.bnk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 186d950f06f54f74d98edb7c7717b351
+    m_Address: Assets/Audio/Android/1019514299.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c501759064ad4db4db620bba3a17d62c
+    m_Address: Assets/Audio/Android/104647876.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4d7f0983fa37d70479894754f26e3470
+    m_Address: Assets/Audio/Android/384444034.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a8ddb1db4cc7d864892096c9fc08576c
+    m_Address: Assets/Audio/Android/47366670.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 57395cb71397a2b469bdb8323dc64882
+    m_Address: Assets/Audio/Android/398032529.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9cdf8f2a66ad3dd468cf362225bc4013
+    m_Address: Assets/Audio/Android/143561339.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7baead9c72caebd40adfc0097ec5ba30
+    m_Address: Assets/Audio/Android/269294630.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4b50fa3371ba43a459b03c569b500d2e
+    m_Address: Assets/Audio/Android/624229358.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c99ea45bd05ab604c94e1efaee41fb3d
+    m_Address: Assets/Audio/Android/132800391.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2d625e30aab9d5e4a944468c7fed6829
+    m_Address: Assets/Audio/Android/1069297310.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d7472a17e5efa2a49b3e1665ad238ebd
+    m_Address: Assets/Audio/Android/354710292.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 382ff7a9e5517ad45902af91ab57b7b8
+    m_Address: Assets/Audio/Android/789264121.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cbfd27ff07ac05345a5d2fe71cc9a495
+    m_Address: Assets/Audio/Android/577242848.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d27bd87aa10d0e94e9c9e62b99e48c61
+    m_Address: Assets/Audio/Android/551861745.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ced3feb396fb5044dad16b3acb1accf3
+    m_Address: Assets/Audio/Android/133731376.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4a5f73454a3258a4d80b2a72a43b0052
+    m_Address: Assets/Audio/Android/468087402.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cec9a2fe5fe7010498192d3cfef30ab5
+    m_Address: Assets/Audio/Android/24763145.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9ae4b307c401df44887017d301793ae0
+    m_Address: Assets/Audio/Android/383672927.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 576712bcc72c66e40a2c5b11baa54fa0
+    m_Address: Assets/Audio/Android/364501355.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c5bd36759bde2c64aa1042c9dba2d0de
+    m_Address: Assets/Audio/Android/1025835753.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2a8a7971083e8e7429834c2b8e79e1a1
+    m_Address: Assets/Audio/Android/1051357547.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4ec012762d4b81e42853cdd80c03998c
+    m_Address: Assets/Audio/Android/7561604.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 19a1fe6b4365479408ea2d5307549036
+    m_Address: Assets/Audio/Android/507804882.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0caaf864f891804489885091be2d3a89
+    m_Address: Assets/Audio/Android/665182172.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4482cc60a2418984589eed7600ff5049
+    m_Address: Assets/Audio/Android/651193748.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 127899ceeb183a9448140cce0812191a
+    m_Address: Assets/Audio/Android/32812652.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c41497cf1b538da438738af977389a1b
+    m_Address: Assets/Audio/Android/180990836.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: df5f173c9a6853040915823a96426e2c
+    m_Address: Assets/Audio/Android/137791018.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 497272214ed47db4ea31ce2e7ff8d1e9
+    m_Address: Assets/Audio/Android/1069312979.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 044a23a2d74fd554aa80b12ea6ea8745
+    m_Address: Assets/Audio/Android/583774400.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c7fc0a6be27d2ad488978e9eec62388a
+    m_Address: Assets/Audio/Android/614159381.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d117346549e72cb4f96236ebaeb6c9f8
+    m_Address: Assets/Audio/Android/941611379.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: eadbbc125f38df846b7e9bffa0d2a940
+    m_Address: Assets/Audio/Android/84914398.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cc0bebb5a94b4024faf579ccc6748965
+    m_Address: Assets/Audio/Android/301252492.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bf7b972ce494e7b4d8e1758c3cf29644
+    m_Address: Assets/Audio/Android/987608139.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ef8ec4285d006b44daa517ee399ef42d
+    m_Address: Assets/Audio/Android/96715188.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2947d0684991fc14bb3cbebaf7b87b5e
+    m_Address: Assets/Audio/Android/545524914.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f38a5e5585bd86940aedf85291fd7728
+    m_Address: Assets/Audio/Android/984817505.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5d10236fadf4b2248847b656e130da4d
+    m_Address: Assets/Audio/Android/268797566.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e06e3e045e85d0841b989fc83f56bff9
+    m_Address: Assets/Audio/Android/639141826.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 843919abc2c1b00489bab84caec14953
+    m_Address: Assets/Audio/Android/417079733.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0550141fce1e25448a9311974b4ac1ef
+    m_Address: Assets/Audio/Android/734612085.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f149e6867d2874343adbabac529ba5af
+    m_Address: Assets/Audio/Android/714235842.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e96ba933164317f429422912399bedec
+    m_Address: Assets/Audio/Android/9956375.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1b0855bdf0605254884e771e8fcd9d72
+    m_Address: Assets/Audio/Android/708427921.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d9e559ec1f0064c40a036fa47db58087
+    m_Address: Assets/Audio/Android/711545860.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d90bba35b68bccd4a8fcf99e8607eb1b
+    m_Address: Assets/Audio/Android/695296563.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: da4923972915f704e96c061077cc71dd
+    m_Address: Assets/Audio/Android/1043970728.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: eb3d246567b739b46a6f698d7414f8b8
+    m_Address: Assets/Audio/Android/800353835.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ddbb5828de3c5c34e9c68d1ec172f716
+    m_Address: Assets/Audio/Android/875538485.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f671dc2556529ba40a7fb153bd0bf72f
+    m_Address: Assets/Audio/Android/77541312.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8c3712de89a78ca459c2fbe4dfbdbf42
+    m_Address: Assets/Audio/Android/647157113.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 551d851812816db478da6d352680ce04
+    m_Address: Assets/Audio/Android/1006245528.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 123b6f839327d87458464514fc7735e4
+    m_Address: Assets/Audio/Android/675182825.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2ac5366212ff59849b0db32047088771
+    m_Address: Assets/Audio/Android/25038968.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 53f018a35b5279148a20df95ad7365ef
+    m_Address: Assets/Audio/Android/950362493.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ab0b50fe31d9e154a98fc351db41831f
+    m_Address: Assets/Audio/Android/576828555.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 307501a315e33824a96225bec4cd50ce
+    m_Address: Assets/Audio/Android/522537838.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cac455240e98e2d4c9400aaf9130b6e9
+    m_Address: Assets/Audio/Android/108256427.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ed2e3e14555ae8a48aa0710ab28ee129
+    m_Address: Assets/Audio/Android/903216126.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4b12a7f2f6a25b9479419cab2a3b4fb5
+    m_Address: Assets/Audio/Android/654134600.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: de5fece62640cba4d831039a16eca5ff
+    m_Address: Assets/Audio/Android/834644087.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 26377b7b189aced4a9659dd7b94b9db0
+    m_Address: Assets/Audio/Android/84155383.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2fde07f461d39c74aa31235180df26e1
+    m_Address: Assets/Audio/Android/435099684.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8d8a75845add2504a90575edf268ac37
+    m_Address: Assets/Audio/Android/185683999.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a3a2e93fe29753048a4b02bb041831e2
+    m_Address: Assets/Audio/Android/1051437578.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d4d729fb27c0a4c458c15bcb5db788d9
+    m_Address: Assets/Audio/Android/579081023.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 208eb6481a4cdde4aa06753cd70c5cdd
+    m_Address: Assets/Audio/Android/313875878.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5bb4e1042adc7544f9442dc87d776a24
+    m_Address: Assets/Audio/Android/574837204.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fd753f7f0caa3d5438ed6a59735893bc
+    m_Address: Assets/Audio/Android/67768984.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 51aba4912f412d24382e51112476c569
+    m_Address: Assets/Audio/Android/521598329.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7511c3ee101eca4468fbfdbd10bb49aa
+    m_Address: Assets/Audio/Android/744666644.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f60fd0c320ed41348bbce4c107ae281b
+    m_Address: Assets/Audio/Android/12290721.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d85a0fd0564640049bd2dcd5b58e2a43
+    m_Address: Assets/Audio/Android/119098151.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d803f64ac9730e840b323b1601caa96e
+    m_Address: Assets/Audio/Android/319411367.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 01a098d3470339c479a4323a780c94a9
+    m_Address: Assets/Audio/Android/446347671.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 39c9ff1aa3ad4ae4c95095cc2db2a7aa
+    m_Address: Assets/Audio/Android/631965681.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9a32e1b39a484ce4fa3949a00ef56e14
+    m_Address: Assets/Audio/Android/299721235.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f26cf0510e2c6c949af764d341499d3d
+    m_Address: Assets/Audio/Android/404903543.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a5ad170e8df83e341a51b620952c91d3
+    m_Address: Assets/Audio/Android/186115493.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cdeb85e0fd13b854685d668e800c5b7e
+    m_Address: Assets/Audio/Android/1024334693.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3cd4a8566eeec874c9065f091d253b4a
+    m_Address: Assets/Audio/Android/446933271.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 87a4a5eca00e0da40a2377e6f2985d8f
+    m_Address: Assets/Audio/Android/351119334.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 19dceeafb298e5f4da7f023b2703161b
+    m_Address: Assets/Audio/Android/552361213.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d0399f9f127efc6448a50d36ac1085be
+    m_Address: Assets/Audio/Android/565456580.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a1254c8c137a8d242a9a1ad600ca558b
+    m_Address: Assets/Audio/Android/452641941.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7061905151fddf14abd28dde9dae8d38
+    m_Address: Assets/Audio/Android/303315600.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c9de104c071849d408a98817fb426f79
+    m_Address: Assets/Audio/Android/558954972.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 54ccff3f76e8bb649a94810d9ee3a995
+    m_Address: Assets/Audio/Android/1045600105.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 384901b19da438042b28b2027a7e8675
+    m_Address: Assets/Audio/Android/200629308.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f627b0556cce2ea42865c04a6af6e763
+    m_Address: Assets/Audio/Android/283452639.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 26e7f6cfe40fa564bb46edc8f4059362
+    m_Address: Assets/Audio/Android/871712705.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 54f2816f7edc2b044b6cb99c4adf3184
+    m_Address: Assets/Audio/Android/309864104.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1873c7f8e2d0b8d4d80aadeb6a5c9385
+    m_Address: Assets/Audio/Android/349452648.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a7a11f0fb5d26c34596105b8d74c9ad9
+    m_Address: Assets/Audio/Android/650113553.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bfe2aecb8d3020f40bfeae3eb56aeedd
+    m_Address: Assets/Audio/Android/191285438.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c80e863fd85db2f47af14d9715053b97
+    m_Address: Assets/Audio/Android/734459939.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 76846acb00d13ad44942f48b4b487aa6
+    m_Address: Assets/Audio/Android/28039296.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 476d3ea120467b1409f4962b31097145
+    m_Address: Assets/Audio/Android/90445871.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 75334145a054e354aa9d0b6632b076e1
+    m_Address: Assets/Audio/Android/1045342416.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b968ff5b22483974f8fb43437edfa8a5
+    m_Address: Assets/Audio/Android/478109607.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 10583e7a05ab61d4c883caa74ca8b55d
+    m_Address: Assets/Audio/Android/1033486572.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 00ee12cec8029a1499eb97c39a4e2af2
+    m_Address: Assets/Audio/Android/858271978.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5231d5fb7338f13449c5baf8e89ea610
+    m_Address: Assets/Audio/Android/701420884.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: be4191b61d573624a96f1fa57e117c9e
+    m_Address: Assets/Audio/Android/400730207.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1677f4e9da189b045aaccb110eeefcde
+    m_Address: Assets/Audio/Android/195629990.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e975624ba5639294a9d3338f90c67899
+    m_Address: Assets/Audio/Android/753565789.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 058f0ffa8246e464b9778c4077957bac
+    m_Address: Assets/Audio/Android/91527115.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 48117e39d54bbf94e96d1f85cbd5887e
+    m_Address: Assets/Audio/Android/263015336.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 81a9474dc011cfe49a21766791a6f4e6
+    m_Address: Assets/Audio/Android/648192654.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6d8a160aa0af92b4c8732e467f8182d8
+    m_Address: Assets/Audio/Android/22148136.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 988590ebf6b91d346b81f99360aedff3
+    m_Address: Assets/Audio/Android/436576237.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 820710c4c9cff4a46a734264a6031771
+    m_Address: Assets/Audio/Android/355740374.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c4e087205ee00684db8dcb6c025c17e9
+    m_Address: Assets/Audio/Android/946372768.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 85154f1d2e183984c9510582003b5559
+    m_Address: Assets/Audio/Android/548115574.wem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4edec13f269373548b5fa04fb4a6edb1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 72a2aceac6a55de4a978183b659f2e83, type: 2}
+    - {fileID: 11400000, guid: 4cb1a4c7610af2a488c5030c62aeb039, type: 2}
