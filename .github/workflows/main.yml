@@ -69,7 +69,7 @@ jobs:
       - uses: actions/upload-artifact@v2
         with:
           name: Build-${{ matrix.targetPlatform }}
-          path: builds/${{ matrix.targetPlatform }}      
+          path: build/${{ matrix.targetPlatform }}      
       
   # uploadArtifactToAppCenter:
   #   name: Upload Build to App Center
