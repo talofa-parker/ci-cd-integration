@@ -1,6 +1,5 @@
 name: CI Cache and Build
-on: 
-  push:  {branches: [main, dev] }
+on:
   pull_request:
   workflow_dispatch: {}
 jobs:
