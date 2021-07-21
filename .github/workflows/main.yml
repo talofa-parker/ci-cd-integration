@@ -60,7 +60,7 @@ jobs:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
           targetPlatform: ${{ matrix.targetPlatform }}
-          projectPath: test-client # abra-client/
+          projectPath: test-client/ # abra-client/
       # upload artifact
       - uses: actions/upload-artifact@v2
         with:
