@@ -1,4 +1,4 @@
-name: CI Cache ad Build
+name: CI Cache and Build
 on: 
   push:  {branches: [main, dev] }
   pull_request:
@@ -38,15 +38,15 @@ jobs:
       - name: git LFS pull 
         run: git lfs pull
 
-      # cache library folder from previous build to cut down build time
-      - name: cache library folder
-        uses: actions/cache@v2
-        with: 
-          path: test-client/Library # abra-client/Library/
-          key: Library-TestProject-${{ matrix.targetPlatform }}
-          # restore-keys: |
-          #   Library-TestProject-
-          #   Library-
+      # # cache library folder from previous build to cut down build time
+      # - name: cache library folder
+      #   uses: actions/cache@v2
+      #   with: 
+      #     path: test-client/Library # abra-client/Library/
+      #     key: Library-TestProject-${{ matrix.targetPlatform }}
+      #     # restore-keys: |
+      #     #   Library-TestProject-
+      #     #   Library-
       
       # build Android APK and iOS Xcode project
       - name: Build project
