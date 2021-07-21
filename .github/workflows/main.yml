@@ -7,11 +7,6 @@ jobs:
   cache:
     name: Cache LFS files 
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        targetPlatform:
-          - Android
-          - iOS
     steps:
       # checkout 
       - name: checkout code
