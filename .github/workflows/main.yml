@@ -19,14 +19,15 @@ jobs:
       - name: checkout repository
         uses: actions/checkout@v2
         with:
-          fetch-depth: 0
+          clean: true
+          fetch-depth: 1
           lfs: true
 
       # cache library folder from previous build to cut down build time
       - name: cache library folder
         uses: actions/cache@v2
         with: 
-          path: client/TestProject/Library/
+          path: abra-client/Library/
           key: Library-TestProject-${{ matrix.targetPlatform }}
           # restore-keys: |
           #   Library-TestProject-
@@ -40,7 +41,7 @@ jobs:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
           targetPlatform: ${{ matrix.targetPlatform }}
-          projectPath: client/TestProject/
+          projectPath: abra-client/
       # upload artifact
       - uses: actions/upload-artifact@v2
         with:
