@@ -34,8 +34,8 @@ jobs:
       - name: cache library folder
         uses: actions/cache@v2
         with: 
-          path: abra-client/Library/ # test-client/Library
-          key: Library-abra-client-${{ matrix.targetPlatform }}
+          path: test-client/Library # abra-client/Library/
+          key: Library-TestProject-${{ matrix.targetPlatform }}
           restore-keys: |
             Library-test-client-
             Library-
@@ -63,7 +63,7 @@ jobs:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
           targetPlatform: ${{ matrix.targetPlatform }}
-          projectPath: abra-client # /test-client/
+          projectPath: test-client/ # abra-client/
       # upload artifact
       - uses: actions/upload-artifact@v2
         with:
