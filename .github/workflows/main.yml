@@ -1,12 +1,19 @@
-name: CI Cache/Build 
+name: CI Cache ad Build
 on: 
   push:  {branches: [main, dev] }
   pull_request:
   workflow_dispatch: {}
 jobs:
-  cache:
-    name: Checks out code and caches LFS files
+  buildWithLinux:
+    name: Cache LFS files and Build Project ${{ matrix.targetPlatform }}
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        unityVersion: 
+          - 2020.3.13f1
+        targetPlatform:
+          - Android # Build android .apk
+          - iOS # Build iOS player
     steps:
       # checkout 
       - name: checkout code
@@ -40,24 +47,7 @@ jobs:
           # restore-keys: |
           #   Library-TestProject-
           #   Library-
-      # #   if: 
-  build:
-    name: Builds for Platform ${{ matrix.targetPlatform }}
-    needs: cache
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        unityVersion: 
-          - 2020.3.13f1
-        targetPlatform:
-          - Android # Build android .apk
-          - iOS # Build iOS player
-    steps:
-      # checkout 
-      - name: checkout code
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
+      
       # build Android APK and iOS Xcode project
       - name: Build project
         uses: game-ci/unity-builder@v2
@@ -70,7 +60,7 @@ jobs:
       - uses: actions/upload-artifact@v2
         with:
           name: Build-${{ matrix.targetPlatform }}
-          path: builds/${{ matrix.targetPlatform }}
+          path: builds/${{ matrix.targetPlatform }}      
       
   # uploadArtifactToAppCenter:
   #   name: Upload Build to App Center
