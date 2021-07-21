@@ -53,6 +53,11 @@ jobs:
           - Android # Build android .apk
           - iOS # Build iOS player
     steps:
+      # checkout 
+      - name: checkout code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       # build Android APK and iOS Xcode project
       - name: Build project
         uses: game-ci/unity-builder@v2
