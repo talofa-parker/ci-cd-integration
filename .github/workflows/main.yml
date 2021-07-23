@@ -46,7 +46,7 @@ jobs:
     strategy:
       matrix:
         unityVersion: 
-          - 2020.3.13f1
+          - 2020.2.76f1
         targetPlatform:
           - Android # Build android .apk
           - iOS # Build iOS player
